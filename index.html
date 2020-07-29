@@ -8,10 +8,10 @@
 <body>    	
 <script src="//d3js.org/d3.v4.min.js"></script>
 <script>
-async function init() {
-var data = await d3.csv('https://github.com/peizhen123/my-project/blob/master/educational%20records.csv');
+// var data = [{"salesperson":"Bob","sales":33},{"salesperson":"Robin","sales":12},{"salesperson":"Anne","sales":41},{"salesperson":"Mark","sales":16},{"salesperson":"Joe","sales":59},{"salesperson":"Eve","sales":38},{"salesperson":"Karen","sales":21},{"salesperson":"Kirsty","sales":25},{"salesperson":"Chris","sales":30},{"salesperson":"Lisa","sales":47},{"salesperson":"Tom","sales":5},{"salesperson":"Stacy","sales":20},{"salesperson":"Charles","sales":13},{"salesperson":"Mary","sales":29}];
+var data = [{"Areaname":"Illinois","1970":47.4},{"Areaname":"Indiana","1970":47.1},{"Areaname":"Iowa","1970":41},{"Areaname":"Kansas","1970":40.1},{"Areaname":"Michigan","1970":47.2},{"Areaname":"Minnesota","1970":42.4},{"Areaname":"Missouri","1970":51.2},{"Areaname":"Nebraska","1970":40.7},{"Areaname":"NorthDekota","1970":49.7},{"Areaname":"Ohio","1970":45.8},{"Areaname":"South Dakota","1970":46.7},{"Areaname":"Wisconsin","1970":45.5}];
 
-// set the dimensions and margins of the graph
+/ set the dimensions and margins of the graph
 var margin = {top: 20, right: 20, bottom: 30, left: 40},
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
@@ -34,7 +34,25 @@ var svg = d3.select("body").append("svg")
     .attr("transform", 
           "translate(" + margin.left + "," + margin.top + ")");
 
- 
+  // format the data
+  data.forEach(function(d) {
+    d.1970 = +d.1970;
+  });
+
+  // Scale the range of the data in the domains
+  x.domain([0, d3.max(data, function(d){ return d.1970; })])
+  y.domain(data.map(function(d) { return d.Areaname; }));
+  //y.domain([0, d3.max(data, function(d) { return d.1970; })]);
+
+  // append the rectangles for the bar chart
+  svg.selectAll(".bar")
+      .data(data)
+    .enter().append("rect")
+      .attr("class", "bar")
+      //.attr("x", function(d) { return x(d.sales); })
+      .attr("width", function(d) {return x(d.1970); } )
+      .attr("y", function(d) { return y(d.Areaname); })
+      .attr("height", y.bandwidth());
 
   // add the x Axis
   svg.append("g")
