@@ -243,15 +243,12 @@
     function change(dataset) {
 
         y.domain(dataset.map(function(d) { return d.label; }));
-        x.domain([0, 50]);
+        
 
-        svg.append("g")
-                .attr("class", "x axis")
-                .attr("transform", "translate(0," + height + ")")
-                .call(xAxis);
+        
 
         svg.select(".y.axis").remove();
-        svg.select(".x.axis").remove();
+       
 
         svg.append("g")
                 .attr("class", "y axis")
