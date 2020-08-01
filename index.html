@@ -208,18 +208,7 @@
             height = parseInt(d3.select('body').style('height'), 10) - margin.top - margin.bottom;
 
     var div = d3.select("body").append("div").attr("class", "toolTip");
-const annotations = [
-  {
-    note: {
-      label: "Here is the annotation label",
-      title: "Annotation title"
-    },
-    x: 100,
-    y: 100,
-    dy: 100,
-    dx: 100
-  }
-]
+
 
 // Add annotation to the chart
 const makeAnnotations = d3.annotation()
