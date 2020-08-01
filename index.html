@@ -210,12 +210,7 @@
     var div = d3.select("body").append("div").attr("class", "toolTip");
 
 
-// Add annotation to the chart
-const makeAnnotations = d3.annotation()
-  .annotations(annotations)
-d3.select("body").append("svg")
-  .append("g")
-  .call(makeAnnotations);
+
     
     var formatPercent = d3.format("");
 
