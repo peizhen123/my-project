@@ -7,6 +7,7 @@
 <!-- Add 2 buttons -->
 <button onclick="update(data1)">Variable 1</button>
 <button onclick="update(data2)">Variable 2</button>
+<button onclick="update(data3)">Variable 2</button>
 
 <!-- Create a div where the graph will take place -->
 <div id="my_dataviz"></div>
@@ -15,17 +16,51 @@
 
 // create 2 data_set
 var data1 = [
-   {group: "A", value: 4},
-   {group: "B", value: 16},
-   {group: "C", value: 8}
-];
+        {label:"Illinois", value:47.4},
+        {label:"Indiana", value:47.1},
+        {label:"Iowa", value:41},
+        {label:" Kansas", value:40.1},
+        {label:" Michigan", value:47.2},
+        {label:" Minnesota", value:42.4},
+        {label:" Missouri", value:51.2},
+        {label:" Nebraska", value:40.7},
+        {label:" North Dekota", value:49.7},
+        {label:" Ohio", value:45.8},
+        {label:" South Dakota", value:46.7},
+        {label:" Wisconsin", value:45.5}
 
-var data2 = [
-   {group: "A", value: 7},
-   {group: "B", value: 1},
-   {group: "C", value: 20},
-   {group: "D", value: 10}
-];
+    ];
+
+    var data2 = [
+        {label:"Illinois", value:33.5},
+        {label:"Indiana", value:33.6},
+        {label:"Iowa", value:28.5},
+        {label:" Kansas", value:26.7},
+        {label:" Michigan", value:32.0},
+        {label:" Minnesota", value:26.9},
+        {label:" Missouri", value:36.5},
+        {label:" Nebraska", value:26.6},
+        {label:" North Dekota", value:33.6},
+        {label:" Ohio", value:33.0},
+        {label:" South Dakota", value:32.1},
+        {label:" Wisconsin", value:30.4}
+
+    ];
+
+    var data3 = [
+        {label:"Illinois", value:23.8},
+        {label:"Indiana", value:24.4},
+        {label:"Iowa", value:19.9},
+        {label:" Kansas", value:18.7},
+        {label:" Michigan", value:23.2},
+        {label:" Minnesota", value:17.6},
+        {label:" Missouri", value:26.1},
+        {label:" Nebraska", value:18.2},
+        {label:" North Dekota", value:23.3},
+        {label:" Ohio", value:24.3},
+        {label:" South Dakota", value:22.9},
+        {label:" Wisconsin", value:21.4}
+   ];
 
 // set the dimensions and margins of the graph
 var margin = {top: 30, right: 30, bottom: 70, left: 60},
