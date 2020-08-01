@@ -214,7 +214,7 @@
             .rangeRoundBands([height, 0], .2, 0.5);
 
     var x = d3.scale.linear()
-            .range([0, 500]);
+            .range([0, height]);
 
     var xAxis = d3.svg.axis()
             .scale(x)
@@ -243,7 +243,7 @@
     function change(dataset) {
 
         y.domain(dataset.map(function(d) { return d.label; }));
-        x.domain([0, d3.max(dataset, function(d) { return d.value; })]);
+        x.domain([0, 50]);
 
         svg.append("g")
                 .attr("class", "x axis")
