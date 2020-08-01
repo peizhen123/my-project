@@ -225,6 +225,26 @@
             .scale(y)
             .orient("left");
     //.tickFormat(formatPercent);
+    
+    const annotations = [
+  {
+    note: {
+      label: "Here is the annotation label",
+      title: "Annotation title"
+    },
+    x: 100,
+    y: 100,
+    dy: 100,
+    dx: 100
+  }
+]
+
+// Add annotation to the chart
+const makeAnnotations = d3.annotation()
+  .annotations(annotations)
+d3.select("#example1")
+  .append("g")
+  .call(makeAnnotations)
 
     var svg = d3.select("body").append("svg")
             .attr("width", width + margin.left + margin.right)
