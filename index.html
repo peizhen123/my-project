@@ -202,7 +202,7 @@
         }
     }
 
-    var margin = {top: (parseInt(d3.select('body').style('height'), 10)/20), right: (parseInt(d3.select('body').style('width'), 10)/20), bottom: (parseInt(d3.select('body').style('height'), 10)/20), left: (parseInt(d3.select('body').style('width'), 10)/5)},
+   var margin = {top: (parseInt(d3.select('body').style('height'), 10)/20), right: (parseInt(d3.select('body').style('width'), 10)/20), bottom: (parseInt(d3.select('body').style('height'), 10)/20), left: (parseInt(d3.select('body').style('width'), 10)/5)},
             width = parseInt(d3.select('body').style('width'), 10) - margin.left - margin.right,
             height = parseInt(d3.select('body').style('height'), 10) - margin.top - margin.bottom;
 
@@ -214,8 +214,7 @@
             .rangeRoundBands([height, 0], .2, 0.5);
 
     var x = d3.scale.linear()
-            .range([0, width])
-            .domain([0, d3.max(dataset, function(d) { return d.value; })]);
+            .range([0, width]);
 
     var xAxis = d3.svg.axis()
             .scale(x)
@@ -244,11 +243,15 @@
     function change(dataset) {
 
         y.domain(dataset.map(function(d) { return d.label; }));
-        
-        
+        x.domain([0, d3.max(dataset, function(d) { return d.value; })]);
+
+        svg.append("g")
+                .attr("class", "x axis")
+                .attr("transform", "translate(0," + height + ")")
+                .call(xAxis);
 
         svg.select(".y.axis").remove();
-        
+        svg.select(".x.axis").remove();
 
         svg.append("g")
                 .attr("class", "y axis")
