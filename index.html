@@ -231,7 +231,6 @@
     //.tickFormat(formatPercent);
     
  
-
     var svg = d3.select("body").append("svg")
             .attr("width", width + margin.left + margin.right)
             .attr("height", height + margin.top + margin.bottom)
@@ -292,6 +291,13 @@
                 .attr("y", function(d) { return y(d.label); })
                 .attr("width", function(d) { return width-x(d.value); })
                 .attr("height", y.rangeBand());
+       
+      bar.selectAll("rect")
+      .sort((a,b) => d3.ascending(a.value, b.value))
+      .attr("y", (d, i) => i * 20);
+
+
+
 
         bar
                 .on("mousemove", function(d){
