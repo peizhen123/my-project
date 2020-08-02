@@ -292,7 +292,11 @@
                 .attr("x", function(d) { return x(d.value); })
                 .attr("y", function(d) { return y(d.label); })
                 .attr("width", function(d) { return width-x(d.value); })
-                .attr("height", y.rangeBand());
+                .attr("height", y.rangeBand())
+        d3.selectAll('.label')
+    .sort(function(a, b) {
+      return b.value - a.value;
+    });
        
       
 
