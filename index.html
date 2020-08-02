@@ -248,17 +248,18 @@
             .attr("text-anchor", "middle")  
             .style("font-size", "16px")  
             .text("Changes in Educational Records of the Midwest from 1970 to 1990");
-    var text1 = svg.append("text")
+    
+    d3.select("input[value=\"total\"]").property("checked", true);
+    change(datasetTotal);
+
+    function change(dataset) {
+        var text1 = svg.append("text")
             .attr("x", 700)             
             .attr("y", 250)
             .attr("text-anchor", "middle")  
             .style("font-size", "16px")  
             .text("Changes");
     
-    d3.select("input[value=\"total\"]").property("checked", true);
-    change(datasetTotal);
-
-    function change(dataset) {
 
         y.domain(dataset.map(function(d) { return d.label; }));
         x.domain([0, 50]);
@@ -270,7 +271,7 @@
 
         svg.select(".y.axis").remove();
         svg.select(".x.axis").remove();
-        svg.select("text1").remove()
+        svg.select(".text1").remove()
 
         svg.append("g")
                 .attr("class", "y axis")
