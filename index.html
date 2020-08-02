@@ -1,333 +1,78 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
-<style>
+<style> 
 
-    body {
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-        width: 960px;
-        height: 500px;
-        position: relative;
-    }
-    svg {
-        width: 100%;
-        height: 100%;
-        position: center;
-    }
-
-    path.slice{
-        stroke-width:2px;
-    }
-
-    text{
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    }
-
-    polyline{
-        opacity: .3;
-        stroke: black;
-        stroke-width: 2px;
-        fill: none;
-    }
-
-    .labelValue
-    {
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-        font-size: 60%;
-        opacity: .5;
-
-    }
-
-    label {
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-        font-weight: normal;
-    }
-
-    .toolTip {
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-        position: absolute;
-        display: none;
-        width: auto;
-        height: auto;
-        background: none repeat scroll 0 0 white;
-        border: 0 none;
-        border-radius: 8px 8px 8px 8px;
-        box-shadow: -3px 3px 15px #888888;
-        color: black;
-        font: 12px sans-serif;
-        padding: 5px;
-        text-align: center;
-    }
-
-
-    .legend {
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-        font-size: 60%;
-    }
-    rect {
-        stroke-width: 2;
-    }
-
-    text {
-        font: 10px sans-serif;
-    }
-
-
-    text.value{
-        font-size: 200%;
-        fill: white;
-    }
-
-    text.label{
-        font-size: 100%;
-    }
-
-    .axis text {
-        font: 10px sans-serif;
-    }
-
-    .axis path{
-        fill: none;
-        stroke: #000;
-    }
-
-    .axis line {
-        fill: none;
-        stroke: #000;
-        shape-rendering: crispEdges;
-    }
-
-    .axis .tick line {
-        stroke-width: 1;
-        stroke: rgba(0, 0, 0, 0.2);
-    }
-
-    .axisHorizontal path{
-        fill: none;
-    }
-
-    .axisHorizontal line {
-        fill: none;
-        stroke: #000;
-        shape-rendering: crispEdges;
-    }
-
-    .axisHorizontal .tick line {
-        stroke-width: 1;
-        stroke: rgba(0, 0, 0, 0.2);
-    }
-
-    .bar {
-        fill: steelblue;
-        fill-opacity: .9;
-    }
-
-    .x.axis path {
-        display: none;
-    }
-
+.bar { fill: steelblue; }
 
 </style>
-<body>
-<form>
-    <label><input type="radio" name="dataset" id="dataset" value="total" checked> 1970</label>
-    <label><input type="radio" name="dataset" id="dataset" value="option1"> 1980</label>
-    <label><input type="radio" name="dataset" id="dataset" value="option2"> 1990</label>
-</form>
-<script src="https://d3js.org/d3.v3.min.js"></script>
-<script src="https://rawgit.com/susielu/d3-annotation/master/d3-annotation.min.js"></script>
-
+<body>    	
+<script src="//d3js.org/d3.v4.min.js"></script>
 <script>
-    datasetTotal = [
-        {label:"Illinois", value:47.4},
+var data = [{label:"Illinois", value:47.4},
         {label:"Indiana", value:47.1},
         {label:"Iowa", value:41},
-        {label:" Kansas", value:40.1},
-        {label:" Michigan", value:47.2},
-        {label:" Minnesota", value:42.4},
-        {label:" Missouri", value:51.2},
-        {label:" Nebraska", value:40.7},
-        {label:" North Dekota", value:49.7},
-        {label:" Ohio", value:45.8},
-        {label:" South Dakota", value:46.7},
-        {label:" Wisconsin", value:45.5}
+        {label:"Kansas", value:40.1},
+        {label:"Michigan", value:47.2},
+        {label:"Minnesota", value:42.4},
+        {label:"Missouri", value:51.2},
+        {label:"Nebraska", value:40.7},
+        {label:"North Dekota", value:49.7},
+        {label:"Ohio", value:45.8},
+        {label:"South Dakota", value:46.7},
+        {label:"Wisconsin", value:45.5}];
 
-    ];
+// set the dimensions and margins of the graph
+var margin = {top: 10, right: 20, bottom: 30, left: 120},
+    width = 960 - margin.left - margin.right,
+    height = 600 - margin.top - margin.bottom;
 
-    datasetOption1 = [
-        {label:"Illinois", value:33.5},
-        {label:"Indiana", value:33.6},
-        {label:"Iowa", value:28.5},
-        {label:" Kansas", value:26.7},
-        {label:" Michigan", value:32.0},
-        {label:" Minnesota", value:26.9},
-        {label:" Missouri", value:36.5},
-        {label:" Nebraska", value:26.6},
-        {label:" North Dekota", value:33.6},
-        {label:" Ohio", value:33.0},
-        {label:" South Dakota", value:32.1},
-        {label:" Wisconsin", value:30.4}
+// set the ranges
+var y = d3.scaleBand()
+          .range([height, 0])
+          .padding(0.1);
 
-    ];
+var x = d3.scaleLinear()
+          .range([0, width]);
+          
+// append the svg object to the body of the page
+// append a 'group' element to 'svg'
+// moves the 'group' element to the top left margin
+var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", 
+          "translate(" + margin.left + "," + margin.top + ")");
 
-    datasetOption2 = [
-        {label:"Illinois", value:23.8},
-        {label:"Indiana", value:24.4},
-        {label:"Iowa", value:19.9},
-        {label:" Kansas", value:18.7},
-        {label:" Michigan", value:23.2},
-        {label:" Minnesota", value:17.6},
-        {label:" Missouri", value:26.1},
-        {label:" Nebraska", value:18.2},
-        {label:" North Dekota", value:23.3},
-        {label:" Ohio", value:24.3},
-        {label:" South Dakota", value:22.9},
-        {label:" Wisconsin", value:21.4}
-   ];
+  // format the data
+  data.forEach(function(d) {
+    d.value = +d.value;
+  });
 
-    d3.selectAll("input").on("change", selectDataset);
+  // Scale the range of the data in the domains
+  x.domain([0, d3.max(data, function(d){ return d.value; })])
+  y.domain(data.map(function(d) { return d.label; }));
+  //y.domain([0, d3.max(data, function(d) { return d.value; })]);
 
-    function selectDataset()
-    {
-        var value = this.value;
-        if (value == "total")
-        {
-            change(datasetTotal);
-        }
-        else if (value == "option1")
-        {
-            change(datasetOption1);
-        }
-        else if (value == "option2")
-        {
-            change(datasetOption2);
-        }
-    }
+  // append the rectangles for the bar chart
+  svg.selectAll(".bar")
+      .data(data)
+    .enter().append("rect")
+      .attr("class", "bar")
+      //.attr("x", function(d) { return x(d.sales); })
+      .attr("width", function(d) {return x(d.value); } )
+      .attr("y", function(d) { return y(d.label); })
+      .attr("height", y.bandwidth());
 
-   var margin = {top: (parseInt(d3.select('body').style('height'), 10)/20), right: (parseInt(d3.select('body').style('width'), 10)/20), bottom: (parseInt(d3.select('body').style('height'), 10)/20), left: (parseInt(d3.select('body').style('width'), 10)/5)},
-            width = parseInt(d3.select('body').style('width'), 10) - margin.left - margin.right,
-            height = parseInt(d3.select('body').style('height'), 10) - margin.top - margin.bottom;
+  // add the x Axis
+  svg.append("g")
+      .attr("transform", "translate(0," + height + ")")
+      .call(d3.axisBottom(x));
 
-    var div = d3.select("body").append("div").attr("class", "toolTip");
+  // add the y Axis
+  svg.append("g")
+      .call(d3.axisLeft(y));
 
 
-
-    
-    var formatPercent = d3.format("");
-
-    var y = d3.scale.ordinal()
-            .rangeRoundBands([height, 0], .2, 0.5);
-
-    var x = d3.scale.linear()
-            .range([0, width]);
-
-    var xAxis = d3.svg.axis()
-            .scale(x)
-            .tickSize(-height)
-            .orient("bottom");
-
-    var yAxis = d3.svg.axis()
-            .scale(y)
-            .orient("left");
-    //.tickFormat(formatPercent);
-    
- 
-    var svg = d3.select("body").append("svg")
-            .attr("width", width + margin.left + margin.right)
-            .attr("height", height + margin.top + margin.bottom)
-            .append("g")
-            .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
-    svg.append("g")
-            .attr("class", "x axis")
-            .attr("transform", "translate(0," + height + ")")
-            .call(xAxis);
-    
-    svg.append("text")
-            .attr("x", (width / 2))             
-            .attr("y", 0 - (margin.top / 2))
-            .attr("text-anchor", "middle")  
-            .style("font-size", "16px")  
-            .text("Changes in Educational Records of the Midwest from 1970 to 1990");
-    
-    d3.select("input[value=\"total\"]").property("checked", true);
-    change(datasetTotal);
-
-    function change(dataset) {
-        var text1 = svg.append("text")
-            .attr("x", 700)             
-            .attr("y", 250)
-            .attr("text-anchor", "middle")  
-            .style("font-size", "16px")  
-            .text("Changes");
-    
-
-        y.domain(dataset.map(function(d) { return d.label; }));
-        x.domain([0, 50]);
-
-        svg.append("g")
-                .attr("class", "x axis")
-                .attr("transform", "translate(0," + height + ")")
-                .call(xAxis);
-
-        svg.select(".y.axis").remove();
-        svg.select(".x.axis").remove();
-        svg.select("text1").remove()
-
-        svg.append("g")
-                .attr("class", "y axis")
-                .call(yAxis)
-                .append("text")
-                .attr("transform", "rotate(0)")
-                .attr("x", 50)
-                .attr("dx", ".1em")
-                .style("text-anchor", "end")
-                .text("Percent of adults with less than a high school diploma %");
-
-
-        var bar = svg.selectAll(".bar")
-                .data(dataset, function(d) { return d.label; });
-        // new data:
-        bar.enter().append("rect")
-                .attr("class", "bar")
-                .attr("x", function(d) { return x(d.value); })
-                .attr("y", function(d) { return y(d.label); })
-                .attr("width", function(d) { return width-x(d.value); })
-                .attr("height", y.rangeBand())
-        d3.selectAll('.label')
-    .sort(function(a, b) {
-      return b.value - a.value;
-    });
-       
-      
-
-
-
-
-        bar
-                .on("mousemove", function(d){
-                    div.style("left", d3.event.pageX+10+"px");
-                    div.style("top", d3.event.pageY-25+"px");
-                    div.style("display", "inline-block");
-                    div.html((d.label)+"<br>"+(d.value)+"%");
-                });
-        bar
-                .on("mouseout", function(d){
-                    div.style("display", "none");
-                });
-
-
-        // removed data:
-        bar.exit().remove();
-
-        // updated data:
-        bar.transition()
-                .duration(750)
-                .attr("x", function(d) { return 0; })
-                .attr("y", function(d) { return y(d.label); })
-                .attr("width", function(d) { return x(d.value); })
-                .attr("height", y.rangeBand())
-                .sort((a,b) => d3.ascending(a.value, b.value));
-
-    };
 </script>
 </body>
