@@ -248,7 +248,7 @@
             .attr("text-anchor", "middle")  
             .style("font-size", "16px")  
             .text("Changes in Educational Records of the Midwest from 1970 to 1990");
-    svg.append("text")
+    var text1 = svg.append("text")
             .attr("x", 700)             
             .attr("y", 250)
             .attr("text-anchor", "middle")  
@@ -270,6 +270,7 @@
 
         svg.select(".y.axis").remove();
         svg.select(".x.axis").remove();
+        svg.select("text1").remove()
 
         svg.append("g")
                 .attr("class", "y axis")
