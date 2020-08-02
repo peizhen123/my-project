@@ -258,13 +258,23 @@ datasetOption2 = datasetOption2.sort(function (a, b) {
             .attr("text-anchor", "middle")  
             .style("font-size", "16px")  
             .text("Changes in Educational Records of the Midwest from 1970 to 1990");
-    var text1 = svg.append("text")
-            .attr("id", "meantext")
-            .attr("x", 0)             
-            .attr("y", 0)
-            .attr("text-anchor", "middle")  
-            .style("font-size", "16px")  
-            .text("Changes");
+    var line = svg.append("line")
+    .attr("id", "lineall")
+             .attr("x1",0-33)  
+             .attr("y1",20)  
+             .attr("x2",100)  
+             .attr("y2",15)  
+             .attr("stroke","red")  
+             .attr("stroke-width",2)  
+             .attr("marker-end","url(#arrow)");  
+var text = svg.append("text")
+.attr("id", "textall")
+        .attr("x", 150)             
+        .attr("y", 10)
+        .attr("text-anchor", "middle")  
+        .style("font-size", "12px") 
+        .style('fill', 'red')
+        .text("Missouri remains the highest");
     d3.select("input[value=\"total\"]").property("checked", true);
     change(datasetTotal);
 
@@ -342,15 +352,142 @@ datasetOption2 = datasetOption2.sort(function (a, b) {
     };
 function remove(datasetOption1){
 svg.select("#meantext").remove()
-};
-function removee(datasetTotal){
-text1 = svg.append("text")
-            .attr("id", "meantext")
-            .attr("x", 0)             
-            .attr("y", 0)
+svg.select("#line1990").remove()
+svg.select("#text1990").remove()
+text3 = svg.append("text")
+            .attr("id", "text1980")
+            .attr("x", 600)             
+            .attr("y", 100)
             .attr("text-anchor", "middle")  
-            .style("font-size", "16px")  
-            .text("Changes");
+            .attr("fill-opacity", 0)
+        .attr("stroke-opacity", 0)
+        .transition()
+            .duration(750)
+            //change fill and stroke opacity to avoid CSS conflicts
+            .attr("fill-opacity", 1)
+            .attr("stroke-opacity", 1)
+            .style("font-size", "12px") 
+            .style('fill', 'red') 
+            .text("These three numbers are close");
+line19801 = svg.append("line")
+
+    .attr("id", "line19801")
+             .attr("x1",510)  
+             .attr("y1",95)  
+             .attr("x2",472)  
+             .attr("y2",70)
+             .attr("fill-opacity", 0)
+        .attr("stroke-opacity", 0)
+        .transition()
+            .duration(750)
+            //change fill and stroke opacity to avoid CSS conflicts
+            .attr("fill-opacity", 1)
+            .attr("stroke-opacity", 1)  
+             .attr("stroke","red")  
+             .attr("stroke-width",2)  
+             .attr("marker-end","url(#arrow)")
+             ; 
+line19802 = svg.append("line")
+    .attr("id", "line19802")
+             .attr("x1",510)  
+             .attr("y1",95)  
+             .attr("x2",472)  
+             .attr("y2",103) 
+             .attr("fill-opacity", 0)
+        .attr("stroke-opacity", 0)
+        .transition()
+            .duration(750)
+            //change fill and stroke opacity to avoid CSS conflicts
+            .attr("fill-opacity", 1)
+            .attr("stroke-opacity", 1)   
+             .attr("stroke","red")  
+             .attr("stroke-width",2)  
+             .attr("marker-end","url(#arrow)"); 
+ line19803 = svg.append("line")
+    .attr("id", "line19803")
+             .attr("x1",510)  
+             .attr("y1",95)  
+             .attr("x2",472)  
+             .attr("y2",133) 
+             .attr("fill-opacity", 0)
+        .attr("stroke-opacity", 0)
+        .transition()
+            .duration(750)
+            //change fill and stroke opacity to avoid CSS conflicts
+            .attr("fill-opacity", 1)
+            .attr("stroke-opacity", 1)   
+             .attr("stroke","red")  
+             .attr("stroke-width",2)  
+             .attr("marker-end","url(#arrow)"); };
+function removee(datasetTotal){
+svg.select("#line1990")
+        .attr("fill-opacity", 1)
+        .attr("stroke-opacity", 1)
+        .transition()
+            .duration(500)
+            //change fill and stroke opacity to avoid CSS conflicts
+            .attr("fill-opacity", 0)
+            .attr("stroke-opacity", 0)
+            .remove(); //remove after transitions are completeremove()
+svg.select("#text1990").attr("fill-opacity", 1)
+        .attr("stroke-opacity", 1)
+        .transition()
+            .duration(500)
+            //change fill and stroke opacity to avoid CSS conflicts
+            .attr("fill-opacity", 0)
+            .attr("stroke-opacity", 0)
+            .remove();
+//text2 = svg.append("text")
+            //.attr("id", "meantext")
+            //.attr("x", 0)             
+            //.attr("y", 0)
+            //.attr("text-anchor", "middle")  
+            //.style("font-size", "16px")  
+            //.text("Changes");
+//svg.select("#meantext").remove().transition()
+                //.duration(750)
+svg.select("#line19803").remove()
+svg.select("#line19802").remove()
+svg.select("#line19801").remove()
+svg.select("#text1980").remove()
 };
+function removeee(datasetOption2){
+svg.select("#meantext").remove()
+svg.select("#line19803").remove()
+svg.select("#line19802").remove()
+svg.select("#line19801").remove()
+svg.select("#text1980").remove()
+text4 = svg.append("text")
+            .attr("id", "text1990")
+            .attr("x", 500)             
+            .attr("y", 180)
+            .attr("fill-opacity", 0)
+        .attr("stroke-opacity", 0)
+        .transition()
+            .duration(750)
+            //change fill and stroke opacity to avoid CSS conflicts
+            .attr("fill-opacity", 1)
+            .attr("stroke-opacity", 1)  
+            .attr("text-anchor", "middle")  
+            .style("font-size", "12px") 
+            .style('fill', 'red') 
+            .text("North Dakota's ranking drops sharply");
+line1990 = svg.append("line")
+    .attr("id", "line1990")
+             .attr("x1",330)  
+             .attr("y1",174)  
+             .attr("x2",400)  
+             .attr("y2",174)  
+             .attr("fill-opacity", 0)
+        .attr("stroke-opacity", 0)
+        .transition()
+            .duration(750)
+            //change fill and stroke opacity to avoid CSS conflicts
+            .attr("fill-opacity", 1)
+            .attr("stroke-opacity", 1)  
+             .attr("stroke","red")  
+             .attr("stroke-width",2)  
+             .attr("marker-end","url(#arrow)"); 
+}
 </script>
 </body>
