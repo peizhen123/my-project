@@ -129,6 +129,7 @@
             .text("Missouri remains the highest");
     
  function update (data1) {
+   d3.selectAll("svg > *").remove();
  var svg2 = d3.select("body").append("svg").attr("id","the_SVG2_ID")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
