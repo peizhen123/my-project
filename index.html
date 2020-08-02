@@ -1,78 +1,142 @@
 <!DOCTYPE html>
-<meta charset="utf-8">
-<style> 
+<meta charset="utf-8" />
+<style>
 
-.bar { fill: steelblue; }
-
+  .bar { fill: steelblue; }
 </style>
-<body>    	
-<script src="//d3js.org/d3.v4.min.js"></script>
-<script>
-var data = [{label:"Illinois", value:47.4},
-        {label:"Indiana", value:47.1},
-        {label:"Iowa", value:41},
-        {label:"Kansas", value:40.1},
-        {label:"Michigan", value:47.2},
-        {label:"Minnesota", value:42.4},
-        {label:"Missouri", value:51.2},
-        {label:"Nebraska", value:40.7},
-        {label:"North Dekota", value:49.7},
-        {label:"Ohio", value:45.8},
-        {label:"South Dakota", value:46.7},
-        {label:"Wisconsin", value:45.5}];
+<body>
+  <script src="//d3js.org/d3.v4.min.js"></script>
+  <button onclick="update(data1)">Year 1970</button>
+  <button onclick="update(data2)">Year 1980</button>
+  <button onclick="update(data3)">Year 1990</button>
+  <script>
+    var data1 = [{label:"Illinois", value:47.4},
+            {label:"Indiana", value:47.1},
+            {label:"Iowa", value:41},
+            {label:"Kansas", value:40.1},
+            {label:"Michigan", value:47.2},
+            {label:"Minnesota", value:42.4},
+            {label:"Missouri", value:51.2},
+            {label:"Nebraska", value:40.7},
+            {label:"North Dekota", value:49.7},
+            {label:"Ohio", value:45.8},
+            {label:"South Dakota", value:46.7},
+            {label:"Wisconsin", value:45.5}];
+    var data2 = [
+            {label:"Illinois", value:33.5},
+            {label:"Indiana", value:33.6},
+            {label:"Iowa", value:28.5},
+            {label:" Kansas", value:26.7},
+            {label:" Michigan", value:32.0},
+            {label:" Minnesota", value:26.9},
+            {label:" Missouri", value:36.5},
+            {label:" Nebraska", value:26.6},
+            {label:" North Dekota", value:33.6},
+            {label:" Ohio", value:33.0},
+            {label:" South Dakota", value:32.1},
+            {label:" Wisconsin", value:30.4}
+      ];
+    var data3 = [
+            {label:"Illinois", value:23.8},
+            {label:"Indiana", value:24.4},
+            {label:"Iowa", value:19.9},
+            {label:" Kansas", value:18.7},
+            {label:" Michigan", value:23.2},
+            {label:" Minnesota", value:17.6},
+            {label:" Missouri", value:26.1},
+            {label:" Nebraska", value:18.2},
+            {label:" North Dekota", value:23.3},
+            {label:" Ohio", value:24.3},
+            {label:" South Dakota", value:22.9},
+            {label:" Wisconsin", value:21.4}
+       ];
+     data1 = data1.sort(function (a, b) {
+                return d3.ascending(a.value, b.value);
+            })
+    // set the dimensions and margins of the graph
+    var margin = {top: 30, right: 20, bottom: 30, left: 120},
+        width = 960 - margin.left - margin.right,
+        height = 600 - margin.top - margin.bottom;
 
-// set the dimensions and margins of the graph
-var margin = {top: 10, right: 20, bottom: 30, left: 120},
-    width = 960 - margin.left - margin.right,
-    height = 600 - margin.top - margin.bottom;
+    // set the ranges
+    var y = d3.scaleBand()
+              .range([height, 0])
+              .padding(0.1);
 
-// set the ranges
-var y = d3.scaleBand()
-          .range([height, 0])
-          .padding(0.1);
-
-var x = d3.scaleLinear()
-          .range([0, width]);
-          
-// append the svg object to the body of the page
-// append a 'group' element to 'svg'
-// moves the 'group' element to the top left margin
-var svg = d3.select("body").append("svg")
-    .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
-  .append("g")
-    .attr("transform", 
-          "translate(" + margin.left + "," + margin.top + ")");
-
-  // format the data
-  data.forEach(function(d) {
-    d.value = +d.value;
-  });
-
-  // Scale the range of the data in the domains
-  x.domain([0, d3.max(data, function(d){ return d.value; })])
-  y.domain(data.map(function(d) { return d.label; }));
-  //y.domain([0, d3.max(data, function(d) { return d.value; })]);
-
-  // append the rectangles for the bar chart
-  svg.selectAll(".bar")
-      .data(data)
-    .enter().append("rect")
-      .attr("class", "bar")
-      //.attr("x", function(d) { return x(d.sales); })
-      .attr("width", function(d) {return x(d.value); } )
-      .attr("y", function(d) { return y(d.label); })
-      .attr("height", y.bandwidth());
-
-  // add the x Axis
-  svg.append("g")
-      .attr("transform", "translate(0," + height + ")")
-      .call(d3.axisBottom(x));
-
-  // add the y Axis
-  svg.append("g")
-      .call(d3.axisLeft(y));
+    var x = d3.scaleLinear()
+              .range([0, width]);
 
 
-</script>
+    // append the svg object to the body of the page
+    // append a 'group' element to 'svg'
+    // moves the 'group' element to the top left margin
+    function update(data1) {
+    var svg1 = d3.selectAll("svg > *").remove().append("svg").attr("id","the_SVG1_ID")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+      .append("g")
+        .attr("transform",
+              "translate(" + margin.left + "," + margin.top + ")");
+    svg1.append("text")
+            .attr("x", (width / 2))
+            .attr("y", 0 - (margin.top / 2))
+            .attr("text-anchor", "middle")
+            .style("font-size", "16px")
+
+            .text("Value vs Date Graph");
+
+
+      // Scale the range of the data in the domains
+      x.domain([0, d3.max(data1, function(d){ return d.value; })])
+      y.domain(data1.map(function(d) { return d.label; }));
+      //y.domain([0, d3.max(data, function(d) { return d.value; })]);
+
+      // append the rectangles for the bar chart
+      var bars = svg1.selectAll(".bar")
+          .data(data1)
+        .enter().append("rect")
+          .attr("class", "bar")
+          //.attr("x", function(d) { return x(d.sales); })
+          .attr("width", function(d) {return x(d.value); } )
+          .attr("y", function(d) { return y(d.label); })
+          .attr("height", y.bandwidth())
+
+      // add the x Axis
+      svg1.append("g")
+          .attr("transform", "translate(0," + height + ")")
+          .call(d3.axisBottom(x));
+
+      // add the y Axis
+      svg1.append("g")
+          .call(d3.axisLeft(y));
+
+
+    var line = svg1.append("line")
+                 .attr("x1",700)
+                 .attr("y1",280)
+                 .attr("x2",820)
+                 .attr("y2",250)
+                 .attr("stroke","red")
+                 .attr("stroke-width",2)
+                 .attr("marker-end","url(#arrow)");
+    var text = svg1.append("text")
+            .attr("x", 700)
+            .attr("y", 300)
+            .attr("text-anchor", "middle")
+            .style("font-size", "16px")
+
+            .text("Missouri remains the highest");
+    var bbox = text.node().getBBox();
+
+    var rect = svg1.append("rect")
+        .attr("x", bbox.x)
+        .attr("y", bbox.y)
+        .attr("width", bbox.width)
+        .attr("height", bbox.height)
+        .style("fill", "white")
+        .style("fill-opacity", "0.2")
+        .style("stroke", "red")
+        .style("stroke-width", "1.5px");
+    }
+  </script>
 </body>
