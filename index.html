@@ -71,7 +71,7 @@
     // append a 'group' element to 'svg'
     // moves the 'group' element to the top left margin
     function update(data1) {
-    var svg1 = d3.selectAll("svg > *").remove().append("svg").attr("id","the_SVG1_ID")
+    var svg1 = d3.select("body").append("svg").attr("id","the_SVG1_ID")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
       .append("g")
