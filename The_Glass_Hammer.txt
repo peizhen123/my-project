@@ -1,0 +1,907 @@
+Opening
+
+Video within video. He watched the monitor screen, seeing himself there, watching. In the same space, the warehouse, that he sat in now. There were more objects held in the space inside the screen: the sleek mass of the sprint car, the mattress and blankets against one wall, scattered beer cans, and all the other evidence of his past. Now the warehouse was empty, swept bare, those things gathered up and placed beyond his reach, inside the screen. Only the chair, and the monitor and playback unit they had given him, existed now. And the tapes stacked beside him.
+
+“Do you want to go straight through them?” A voice spoke behind him. He had forgotten there was someone else in the empty warehouse with him.
+
+After a moment, he nodded. He reached down and pulled out the tape he’d taken at random, returned it to its place in the stack, then placed the top one in the playback unit.
+
+He watched the screen, waiting for the images to form. Everything would be in the tapes, if he watched long enough.
+
+Segment One
+
+The man is the heart of the burning car.
+
+“Shit,” said Norah Endryx. She sat forward, elbows to knees, and dropped her cigarette stub to the bare concrete. On the monitor screen, as she watched, another figure runs across the sand, tearing off his fire-mask. The missile trails skein above the night desert. She ground the stub out under her boot.
+
+VIDEO: CLOSE-UP of the rescuer’s face as he tugs the limp, goggled body free of the wreck. His eyes, flame-reddened, narrow in puzzlement. Then the shot blurs. In SLOW MOTION grace, arms splaying wide, he is lifted backward by the bullet’s force. He strikes the wall of the warehouse and slides to the angle of the floor.
+
+“Christ, what a mess.” Through the zipped-open sleeve of her jacket, Endryx punched the keypad in her forearm. On the monitor, Schuyler’s face freezes, the expression of surprise caught at the moment of fading beneath pain and blackout.
+
+“Something wrong?”
+
+She looked over her shoulder. The monitor’s glow threw her silhouette across Wyre as he bent over Schuyler’s car. Using the hood as a workbench, he probed with his thin chrome tools in the co-pilot’s access door. The light-panel’s glare above his eyes hid his face from her when he looked up from the metal box’s innards.
+
+“Nothing.” She pushed her sweat-damp hair from her forehead. The thick Los Angeles heat, even this far through the night, pulsed blood-like outside; the air inside the warehouse synched in with it. The fibers of her shirt went through their simple program, drawing sweat away from her skin and dissipating it in air. She felt as if she were being sucked dry by little vampires. End up like one of those pruney leather guys you see scuttling around downtown, she thought. That’s part of the price you pay for coming to work in L.A. She managed a tired smile. “What could go wrong after a day like this?”
+
+Wyre shrugged and went on poking inside the co-pilot. “Tape’s what counts, I guess. Long as you got good footage.” He drew out a cracked circuit board. His probes plucked out the flattened bullet embedded in the center. “Pierced to the vitals. Poor Amf—an innocent bystander.” Wyre rooted in his satchel for a new board.
+
+“Will he be all right?”
+
+“Amf? No problem. It didn’t hit the main processor or any of the memory boards. He’ll be his old nasty self.”
+
+Across the back of Wyre’s hand the red numbers crawled like ants as he logic-checked the new board.
+
+Endryx turned back to the monitor and Schuyler’s face. She tapped out CANCELSEQ on her forearm, then hesitated. The scramble of images and time sectors that had popped up on the screen—Schuyler dragging his fellow sprinter from the missile-struck car on last night’s run, overlaid with the Godfriend assassin’s bullet lifting Schuyler like a rag doll just a few hours ago, but already subsumed into the tape world—all that was the result of her fingers tapping on the keypad while her mind had been running through its own tapes, gray cigarette smoke drifting over a blank screen.
+
+God knows what I punched in, she thought. A hash, most likely. She had every Schuyler file she’d done still banked in her shadow’s archives, from the first interview to the parameds loading him into the ambulance, buried under pumping life-supports.
+
+Poor Schuyler, she thought as she gazed at the electrophores arranged into his face. Have to go see how he’s doing. Her watch read minutes to go before she’d have to leave for her meeting with Urbenton, the head of Speed Death Productions’ L.A. office and thus—ostensibly—her boss. On impulse she punched in RUNSEQ. Wasting time, she knew; that was all there was left to do at this hour. RETURN and the electrophores shifted, no longer Schuyler’s face, forming other images.
+
+VIDEO: LONG SHOT, a car burning on the desert, tires smoking as they melt into the sand, a circle of flaring light catching the other shapes speeding by in darkness. DISSOLVE to
+
+TRACKING SHOT, a motorcycle skids out of control and falls, wheels losing grip in a patch of gray slush, sparks as the motor’s edge digs through the ice and finds the asphalt beneath. The rider thrown in snow banked against a wall, arms flung wide
+
+(—cross-cut memory to Schuyler held in air by the bullet—) black leather against white as if melting into the snow’s soft crucifix. CUT to
+
+CLOSE-UP of the rider’s helmet, motionless, the dark-tinted faceshield reflecting the camera lens. DISSOLVE to
+
+MEDIUM SHOT, SCHUYLER, silent, watching the monitor, video within video; on the screen within the screen, the motorcycle rider sprawled in snow. SCHUYLER points to the screen and says something. DISSOLVE to
+
+REVERSE MOTION, fire gathering into a ball, condensing into a missile, and tracking a streak of light back up to one of the pursuit satellites hovering over the desert. CUT to
+
+CLOSE-UP of a figure in barbarian’s furs and iron-studded leather, the warehouse’s bare walls and metal door behind. The figure’s hand pushes back the rough cowl and reveals a woman’s face. CUT to
+
+REVERSE ANCLE, the expression on SCHUYLER’S face changes from bored resignation to amazement. He starts to speak, his mouth moving in silence. The bullet hits. CUT to
+
+LONG SHOT, huts half-buried in wind-driven snow, metal blackened by long-dead fire. DISSOLVE to
+
+Night and desert. CLOSE-UP of SCHUYLER’s face reflected in his car’s windshield as he looks up, tracing a streak of light in the sky. DISSOLVE to
+
+Snow. DISSOLVE to
+
+Fire. DISSOLVE to
+
+SCHUYLER, locked on some revelation, lying crumpled against the wall, shirt leaking blood.
+
+Endryx squeezed her hand hard on her forearm, shutting off the blood and the flow of images on the monitor. Behind her eyelids, as she kneaded the small ache between her brows, Schuyler’s face remained.
+
+“Very avant-garde, that.”
+
+She opened her eyes at the sound of the voice and cut from her thoughts to Wyre standing next to her, gazing at the blank screen. Amf’s box shape was cradled in one arm as he worked with an old-fashioned handheld soldering gun. “I didn’t know Speed Death was interested in that sort of thing.”
+
+“They’re not.” She erased the sequence out of memory, the shadow’s archive, at least. She watched her hand zipping shut the jacket sleeve over the control pad. “They just want the straight stuff like usual. Nice, clean linear sequences.” They were Speed Death Productions and beyond them, Hombre Mejor and Stan’s CutRate—the indie rebroadcast satellites—and the international audience they served. Images for the hungry eyes of Asia and the Americas—the thought dug in by its own sharp edge. Let ’em eat TV. And all in straight lines: the sprinters’ cars across the desert, the missiles tracking and falling toward them, the video signal out of the induced visual field via Urbenton’s editing desk and to the satellites, and bounced back to the eager audience. Nothing but straight lines, she thought. Like a bullet.
+
+“There.” Wyre’s voice brought her out of her reverie again. He turned Amf’s box around to show her. The patch he had soldered on covered the hole where the stray bullet had pierced the metal. “That gives him a nice scar to brag about at the bars.”
+
+Endryx nodded and began folding up the monitor. Obediently, unbidden, the shadow rose on its spider legs and stepped toward her, a thin aperture under the lens turret sliding open. When the monitor was stowed inside she twisted around again on the chair. Wyre was gone, in his overly spooky way He had left the mended Amf sitting on the fender of Schuyler’s sprint car.
+
+The shadow followed her over. She stopped and flicked Amf’s power switch to ON. The small LED above the speaker grille glowed red.
+
+“Leave me alone,” grated the familiar synthed voice. “God, I feel like shit.”
+
+“Are you all right?” Endryx bent close to the box’s mike. “Hell, no.” The voice flattened and twanged. “I suppose I’m fixed now, huh? I feel a new board.”
+
+“Wyre put that in.”
+
+“It sucks. It’ll take a week to get my protocols straightened out. Some bargain-basement cheapshit replacement—I know that guy.” The LED flared brighter. “And who let those loonies in here, anyway? Goddamn dykes, with their furs and spears and shit. And that broad with the gun— Great. Just great.”
+
+“Nobody knew that was going to happen.” Least of all me, she thought. Some major consultations with the New York office would have to take place, and soon, to factor this into their plans.
+
+“So just your luck,” sneered Amf, “to be here when it did. Did you get it on tape all right? Me getting plugged? How nice—immortalized at last. Five minutes on the early morning wrap-up. Shit.”
+
+Endryx shrugged. “I got you. Both you and Schuyler.”
+
+“Schuyler? What’s wrong with him?”
+
+She laid her hand on the box’s power switch. “He caught it too. The first shot.”
+
+Amf’s speaker went silent for a moment. “He did? That jerk—”
+
+“Good night, Amf.” The red LED died under her hand. Outside, she drew the warehouse’s rattling door back down to the ground. A couple of vibers, Schuyler’s neighbors, with the low harmonics rumbling out from the doorway behind them, glanced at her and went back to preening each other’s shining hair. Endryx thrust her hands deep in her jacket pockets and began threading her way out of the district’s alleys. Her shadow picked delicately through the layered rubble and trash, following her toward the downtown’s dark outlines.
+
+VIDEO: CLOSE-UP of SCHUYLER, his eyes still open in bewilderment, gazing at the warehouse’s ceiling. His hands grope toward his reddening chest.
+
+Endryx had told him about the accidental jumble of images she’d made. For some reason she hadn’t deleted it and it had shown up here in the archive of all the other tapes.
+
+He hadn’t seen it before. Or any of the straight footage of the shooting. He looked at the image on the screen, of himself lying broken against the warehouse. I should feel something, he thought. Seeing this. He’d come that close to death; but the others went farther. A certain numbness sets in. He reached down and picked up the next tape.
+
+* * *
+
+The indies were doing replays of last night’s run. Above the night desert some of the stars shifted and crawled into new positions: the pursuit satellites readying their missiles, and Hombre Mejor and Stan’s CutRate beaming the ritual pre-run show to all points. By mutual agreement between the sprinters and Speed Death Productions, the area around the Phoenix factory manholes was out of the induced visual field’s range, making it a backstage area safe from the audience’s view. The band of sprinters, eighteen with Schuyler missing, clustered around a fire built in a discarded radar dish, warming their hands and watching the tape of a car burning.
+
+Dennie pointed with his cast to the flat screen propped up on the trunk of one of the cars. “I could feel him grab me under the arms and start pulling.” The stiff foam binding the broken arm tapped at Schuyler’s tiny face under the screen’s glass. Dennie had ridden out with one of the others, so as not to miss the nightly gathering. “I figured it was him, ’cause he’d been trailing on my right all the way back.”
+
+A few meters away, Cassem scuffed through the sand mixed with ash dumped from the fires on all the nights before. The sharp-edged wind had smeared the black into ragged patches beneath the circle of cars. She glanced over her shoulder at the screen’s blurred flames, then drained the last flat beer from the can and threw it clattering onto the other discards. The beer, still cold despite her holding it for so long, worked its chill down her throat.
+
+“You could’ve gotten out, couldn’t you? On your own?” Paul Sim folded his arms tight over his chest as he watched the replay, as if to keep something buttoned tight under his jacket from leaping out and screaming. Fuckin’ pansy, thought Cassem, watching him.
+
+“I don’t know, man. ” Dennie wiped the sweat of the beer in his uninjured hand across his brow. “I was pretty out of it. The shockwave hit me square on.”
+
+“Out of it, my ass,” piped up Zister, Dennie’s co-pilot. “You were unconscious. You don’t remember Schuyler pulling you out; I told you about that.” The metal box had scorch marks on it from the wreck. Its insides had been saved by the automatic vapor system Wyre had built in.
+
+“Damn straight,” agreed another co-pilot, followed by a jumbled chorus from the other boxes sitting on the car hoods. The sprinters ignored them, and whatever point they were making out of the superiority of metal over flesh.
+
+“Schuyler told me in L.A. that he didn’t even get it from Amf to stop and pull you out. He just took a chance there wasn’t going to be a follow-up missile.”
+
+Cassem closed her eyes, but could still hear the voices going back and forth.
+
+“Lucky for him.”
+
+“Yeah, and where does it get him? That wacko broad shows up and plugs him.”
+
+At the same time Cassem found the case of beer was empty, the last cargo came up. With a box of RH chips cradled against his chest, one of the underground factory ruins’ denizens cleared the steel rim set flush with the desert sand. The burly mole placed the load of pre-war microcircuitry in the last open car hatch and slammed the lid down. “There you go,” he said, scribbling out the invoice. He tore off a copy for Popejoy, this night’s organizer, stuffed the rest in the front pouch of his overalls, and started back down the ladder to the moles’ dens far below. “Bon voyage.” Out of the sprinters’ sight, his voice echoed hollow over his boots striking the metal rungs.
+
+“Time to hit it,” said Popejoy, tucking away the pink slip of paper.
+
+Dennie went on watching the video. “They didn’t say anything about Schuyler. About his getting shot.” One of the indies’ color men filled the screen, sitting in front of a blow-up of Dennie’s arm being set in its cast.
+
+“They’re probably still figuring out how to handle it.”
+
+Popejoy picked up McHertz, his co-pilot, and carried it by the handle on top toward his car. “So as not to freak out everybody in Brazil or some place. Come on. It’s showtime.”
+
+Cassem folded up the empty beer carton and threw it on the fire. The thermal foam shrank and bubbled over the embers of scrap wood. She watched Dennie switch off and stow away the video as the other sprinters split up to their cars.
+
+“You’re drunk,” said lode disgustedly as Cassem wedged herself into the driver’s seat.
+
+“No, I’m not.” The LED above lode’s speaker grille dimmed as she plugged the I/O cable into the car’s sensor relays. Cassem drew the seat straps around herself. “That’s the problem.”
+
+The elevator went to the 32nd floor and died. Endryx got out in darkness and climbed the next seven stories to Urbenton’s office. She switched on the shadow’s range-finding beam, and the stair ladies scuttled out of its light, retreating to the doorless hallways that branched off the stairwell. The walls glistened black with the layered soot of their cooking fires.
+
+Urbenton swiveled his gaze around from the bank of monitors when she let herself into the office. The screens were old phosphor-dot models, dug up from God knew where, instead of the standard multi-plane electrophoretic displays. His desk filled the blue pool of light cast by them. “It’s, uh—Endryx,” he said, squinting past the shadow’s beam. “Turn that damn thing off.”
+
+The building’s darkness folded closer around them as she sat down and pressed the fat CANCEL button through the leather sleeve. “You’re turning into a mushroom up here,” she said, digging out a cigarette. The small flame of her lighter danced Urbenton’s wide silhouette across the monitors. “Or one of those cave fish—live their whole life out of the sunlight. Pretty soon you won’t be able to see anything if it’s not on those screens.” She snapped the lighter shut.
+
+He shrugged, the lift of his shoulders tightening his shirt over his paunch. “Speed Death doesn’t pay me to look at anything else. That’s what you’re for. So I can look at what you look at.”
+
+Leaning back, she gazed across the monitors. The isolation shots of last night’s run filled all but one of the screens; that one held the overview of the induced visual field, each blip a sprinter racing across the cathode-ray desert as it scrolled left to right, Phoenix to Los Angeles. The open circles that stood for the pursuit satellites drifted on a slow diagonal, readying their aim.
+
+This room, unlit except for the monitors, constituted the western nexus of Speed Death’s electronic nervous system. From here, the induced visual field between Phoenix and L. A. was run, the feed from its multiple viewpoints reduced to one signal for the indie satellites. An action director’s dream; no wonder, thought Endryx, that Urbenton never left the room. Miles of flat desert, scraped even barer by the war, and every inch of it wired for vision. No worry about camera set-ups or lighting, no bothersome tech crews to fool with: a one-man job from the editing desk. Inside the field, a view of any point could be generated from any other point. Any angle; track, zoom or pan shot. And all for the sprinters and their nightly runs: a show covering such long distances and high speeds that no other way of taping it was possible. And thus Speed Death, she told herself, in a small space at least, sees all. There was, apparently, no other version of God between Phoenix and L.A.
+
+She watched her exhaled smoke, a blue cloud, pass between herself and the screens. “I’ve got something interesting for you,” she said.
+
+“That shooting down at the warehouse? I know all about it. Cathedra Novum security were all over the place a couple hours ago, running all the lead tapes, looking for more.”
+
+“Find anything?”
+
+“Just the rest of your stuff.” Urbenton flattened his hands across his stomach. “Why you’re chasing around that— whatever his name is—”
+
+“Schuyler.” On the overview screen one of the drifting circles centered on the blip of a sprinter’s car.
+
+“Whatever,” said Urbenton. “Why you’re bothering, why Speed Death sent you out here at all, it beats the hell out of me.”
+
+“The indies want color.” Endryx shrugged. “Schuyler’s an interesting character.” That was the cover Speed Death had given her, the line handed out to Urbenton even before she’d arrived in L.A.
+
+“Bullshit on that. He’s a sprinter, for Christ’s sake. A high-velocity drunk. That’s all. And bullshit on this whole color jazz, as far as I’m concerned. You really think anyone in Sao Paulo or Newhonk is interested in one of these schmucks’ private life? They don’t want that—they want the pure uncut horizontal, straight shot through the desert, around the nasty missiles, and every once in a while a near-miss, like last night, just to keep the adrenaline up. That’s the whole trip right there.”
+
+She listened and said nothing, having heard it before. Urbenton was a classicist, an action director of the old school. Essence of Peckinpah and Needham, simmered down in the cool blue ovens of the induced visual field monitors up here until nothing was left but the pure straight line of event and motion. A century-old film such as Sarafian’s Vanishing Point was like sacred writ to him; she knew he had a copy of it, and other classics in the genre, safely locked away. Cars seen from a distance, cutting their knife-edge through the exploding landscape. To drag her little tapes in here, she knew, video full of faces and audio of their voices, was to muck up that flow, slow the pace— and that’s a little death for him, she thought as she gazed at Urbenton’s blue-lit face. From fast to slow, the grave the end of that spectrum. She had never seen him anywhere else but this room, bathed in the light from the monitor screens like windows far underwater rather than on top of one of L.A.’s decaying towers. Living for action, the high-speed progress of the sprint cars through the pursuit satellites’ hail of missiles, with an occasional near-miss—such as that ending in Schuyler’s rescue of his fellow sprinter Dennie— being as close as the field ever got to actual death. She wondered whether Urbenton would be happier if the real world could be fast-forwarded and he could see the changes that were coming.
+
+Endryx shrugged. “People in factory dorms are still people. They’re interested in other people. That’s the theory at least.”
+
+“People weren’t ever interested in other people.” Urbenton settled lower in his chair, as though his outburst had bled off some internal pressure. “That’s why video.”
+
+No point in arguing, or going over it again; there was no way he could see it. In Schuyler you had a guy who had managed to wangle his way out of a dead-end post in the Cathedra Novum’s dreary Northernmost Parish, a post he’d been born in and by rights would have been expected to die in, only to get shafted by the Church and wind up in an even worse hole in the snow. From there, after explosion and fire and charred bodies lined up in the drifts, he’d made his way south through the white landscape with his Godfriend buddy, the woman Cynth. A hopeless trek; they’d only been rescued by the violation of the numero uno taboo in the Godfriend canon. Which was how Schuyler, schlemiel-like, had come to be regarded as the Father of God by the Godfriends and others farther south. And—after becoming a sprinter in L.A., one of the new video cowboys for the world’s viewers—the object of the yearly pilgrimage and ritual mock-assassination by the Godfriends. Which ritual had become actual when Cynth, the despised Mother of God, had shown up this day; no shattering dagger then, but a coldly efficient gun. Tough luck for Schuyler, thought Endryx; the simulation became real inside his battered rib cage.
+
+Urbenton found none of this interesting, only tedious and messy. It lacked the clean lines and grace of high-speed motion. Speed Death had thought otherwise, though, even before this day’s events had brought a new bright-red episode to Schuyler’s odd career. The benighted audiences in the Latin American factory dorms gobbled up the nightly broadcasts of the sprinters’ runs, and any other scrap of image or word about them. Thus the surface reason for her coming out from New York to do the video bio of Schuyler. If Urbenton couldn’t comprehend the reasoning behind that much, what chance of his understanding the darker, subtler strategy beneath? That was why he hadn’t been told that part. He’ll find out soon enough, thought Endryx.
+
+A red glow against her knuckles; she drew her focus back to the cigarette. “You want to see the footage or not? Speed Death can send it up through New York as easily as through you.”
+
+Urbenton made a show of resignation, a sigh that lifted his chin on his collar. “Sure. Go ahead. Access the overview there.” The middle screen went blank as he thumbed a desk switch.
+
+The tape came up on the screen at the last few seconds, the sound of the gunshot filling the room.
+
+Urbenton grunted as he swiveled about to watch.
+
+VIDEO: MEDIUM SHOT, SCHUYLER slumps down the warehouse wall, his chest oozing between his fingers.
+
+AUDIO: Garbled echoes of gunshot against concrete walls.
+
+“Overloaded the mike,” said Urbenton.
+
+Another shrug. “We can fix that in post,” said Endryx. She fed another command to the shadow from the control pad in her forearm, rewinding the tape back to the start, then punched the RUNSEQ light when it flashed red.
+
+VIDEO: MEDIUM SHOT, SCHUYLER in his warehouse home-cum-garage. Looking as if he’s just awakened: hair tousled and standing on end, one hand slowly rubbing the stubble on his jaw. The other hand dangles a beer can by its rim. Late afternoon: the sun slants the grille pattern of the skylight against the wall he shuffles past. He pushes open a door; CLOSE-UP of his face in the mirror over the bathroom sink. The probing lens of the shadow can be seen reflected in the distance beyond his shoulder. SCHUYLER winks at the camera’s reflection, then exchanges the beer for an electric razor.
+
+AUDIO: Three sudden loud knocks, metal on metal, a second of the warehouse’s air echoing between each blow.
+
+VIDEO: SCHUYLER’s eyes in the mirror start wide at the first knock, but no other reaction. He goes on running the razor over his black-stubbled jaw.
+
+180 DEGREE PAN, a quick blur; FREEZE on LONG SHOT of the warehouse’s high open space, trussed with steel framework below the skylights, SCHUYLER’s sprint car silent at rest in LOWER LEFT FRAME, the windshield a dark mirror with the shadow’s stalky, goggling form in it. CENTER FRAME: ENDRYX, seated with her back to the car, leaning forward, the faint silver radiation of her editing monitor on her face. Beyond her the wide steel door of the warehouse. She turns away from it as the knocks fade on the AUDIO track, and toward SCHUYLER and the camera lens. HOLD.
+
+AUDIO: ENDRYX: “You want me to see who it is?”
+
+Urbenton lifted his hand from the buttons on the desk and scratched himself. “You oughta keep yourself out of the frame. Very unprofessional.”
+
+“So edit me out.” The red tip of Endryx’s cigarette blotted out the gray image of her face on the monitor as she brought her hand to her real face and inhaled smoke. “Just a rough-cut anyway.”
+
+“When’s the good stuff start?” With a bored expression, Urbenton chased the itch under the fold of his gut. “Hang on.”
+
+VIDEO: Motion and time pick up again. ENDRYX’s lips form words.
+
+AUDIO: “You want me to see who it is?”
+
+VIDEO: CUT to CLOSE-UP of SCHUYLER’s face in the bathroom mirror. He lowers the razor, shakes his head and says something.
+
+AUDIO: (Silence).
+
+“What’s the deal?” Urbenton jabbed his hand at the monitor. His interest jumped at spotting a flaw. “You didn’t catch what he said.”
+
+“It’s that machine they sent me out here with.” Endryx raised her thumb at the the shadow behind her chair, silent and dark except for the one red light on its display panel flickering as the Schuyler file accessed out of its archive and onto the screen. “It’s been fucking up all along. Especially audio. Microphone’s been cutting out, missing its range— all sorts of things. You want better results, give me better equipment.”
+
+“That’s why you got what you got, sweetheart.” Urbenton’s sick smile eased. “Don’t sweat it. We’ll dub it in post. God knows you got enough tape to work up a synth. Should we have him say something clever or dumb in that gap?”
+
+“Deathly.” Endryx blew the ash off the cigarette. “Fine.” Urbenton scribbled a note as the tape started again.
+
+VIDEO: PULL BACK, SCHUYLER’s face doubled in the mirror.
+
+AUDIO: His voice snaps the silence, a clean knife edge to the first word jumping audible: “—what day it is. I always forget.” Three more blows split the air.
+
+VIDEO: The reflected SCHUYLER shimmers as the echoes lap up the mirror’s glass. He turns and sets the razor down on the edge of the sink. PULL BACK as SCHUYLER turns and enters the warehouse’s open space, then PAN; quick glimpse of ENDRYX at the monitor screen as SCHUYLER walks past her, heading for the warehouse door. CUT to
+
+MEDIUM SHOT, SCHUYLER’s back to the camera. The frame floods with light as he stoops down, then straightens, rolling the door’s sections onto their overhead rack. SCHUYLER’s thin silhouette is washed over with the white glare of the L.A. sun outside.
+
+“Christ,” said Urbenton as
+
+VIDEO: The warehouse door rattles up and out of frame.
+
+“How long does that piece of junk take to iris down?”
+
+VIDEO: The light-blurred edges of SCHUYLER’s silhouette become solid as the glare darkens into color and forms. Figures can be seen past SCHUYLER. The narrow X shape of his body, hands still raised to grasp the door’s bottom edge, shifts as he leans his weight forward into the sunlight. The camera TRACKS FORWARD, shifting to one side. SCHUYLER’s arm and trunk fill one side of the frame, as though shading the face—round, pink, perspiring—at the front of the group. The other faces beyond watch silently, ranged down the concrete ramp sloping from the door.
+
+AUDIO: SCHUYLER’s voice: “What do you want?” —low, mocking the answer it knows already; the smile heard but not seen from this back angle. Then a sharp squawk of static, its crackle fading into the open air.
+
+VIDEO: CLOSE-UP of the other’s face, the mouth flapping shut. TILT to his chest, the pink hands fumbling at the cheap government-issue voke strapped inside his coat. A green light flashes as the voice-altering device switches on. The shot goes back up to the round face reassembling its dignity.
+
+AUDIO: Static, silence, then the flat bureaucratic voice-tone, all emotion-betraying harmonics and subvocal tremors filtered out. The voice of a machine wrapped in flesh: “Mister Schuyler.” (The sizzle of electronics beneath the voice, threatening to break out again.) “You were notified. As usual. By my office. Every year we go through this zicchh howow. Zaf. Through this with you. How could you forget—”
+
+SCHUYLER interrupts: “How could I forget a face like yours? I don’t know, Wolden. But I’ve tried.”
+
+VIDEO: While WOLDEN, the leader of the group at the doorstep, scowls and further prods the malfunctioning voke, SCHUYLER’s face turns away from him, through PROFILE to THREE-QUARTERS toward the camera. Against the outside glare, enough detail can be seen of the shaded face to make out his slow wink to Endryx inside the warehouse. He turns back to WOLDEN, pointing with his lifted chin to the figures ranged beyond the other man.
+
+AUDIO: “How many did you bring with you this time?”
+
+WOLDEN’s electronics-smoothed voice replies: “Seventeen, Mr. Schuyler. That’s all.”
+
+“That’s all?” SCHUYLER’s words choke into a laugh of put-upon amazement. “Great fucking Christ, what do you mean, that’s all?”
+
+“Krif. Krifter Schuyler. Shit. Mr. Schuyler—there— Mr. Schuyler.” The minimal voice stabilizes and grinds on. “We only ask this of you one day each year. PrimRelCom would appreciate your cooperation.”
+
+“They would, huh?” The mike barely catches SCHUYLER’s snort of disgust. “Let them get seventeen knives stuck in them. See how they like it.” The last words resigned, weary; complaining of what is already recognized as inevitable.
+
+VIDEO: The camera TRACKS closer as the two men speak. It swings around and ZOOMS past SCHUYLER, dropping him out of frame, drawing the other figures outside to be seen. Bright sun, narrow aperture and a long depth of field—they all can be seen as the camera PANS across the group. Seventeen women: barbarians, Amazons against the flat background of gray buildings and angled street perspectives. Ragged-edge furs crossed with straps of leather fastening the knife sheathes and pouches covered in swirling interlaced patterns picked out and stained black. Thick skin boots webbed with knotted straps; hoods of coarse-woven cloth, thrown back on all but a couple of the women. The faces revealed are young, luminous with sweat—the furs and leather suited more for the wastes of snow to the north than standing beneath the heavy L.A. sun. Dark hair braided, framing jaws sharper and cheekbones higher from times of hunger. Some of them are beautiful.
+
+The first woman of the group, just behind WOLDEN, holds an iron staff, one end resting by her boot. A bright scuff on the metal head shows where it knocked its ritual blows against the warehouse door.
+
+PULL BACK to SCHUYLER’s profile. He drops his hands from the edge of the door above him. He jerks his head toward the warehouse’s dark interior.
+
+AUDIO: “Come on.” Resignation set solid now. “Let’s get it over with.”
+
+VIDEO: WIDE ANGLE as the women file past, headed by WOLDEN mopping the perspiration from his pink face. A few of the women glance at the camera lens as they pass from light to shadow, and for a moment vistas of night and ice telescope behind the soft dark lashes.
+
+The last one has her rough hood up. The camera HOLDS and ZOOMS closer, prying toward the hidden face. Nothing can be seen.
+
+“That’s her,” said Endryx. “That’s the one.”
+
+Urbenton froze the screen. He leaned closer to it, studying the phosphor pattern. “Could you tell already—I mean, you picked her out. Was there something about her?”
+
+She shifted in the chair, looking away from the hooded figure on the monitor. “No,” she said.
+
+Urbenton gestured for her to start the tape rolling again.
+
+VIDEO: MEDIUM SHOT, SCHUYLER facing the camera; shoulders slumped, hands dangling at his sides, weary expression. A few feet behind him, the bare concrete-block wall of the warehouse, as though he were lined up and waiting for execution. A leather pad, much scuffed, is strapped to his chest, over his shirt.
+
+AUDIO: “Bring ‘em on,” says SCHUYLER.
+
+VIDEO: The first of the group of women steps up to face SCHUYLER; the camera sees the back of her head, the glistening braid dropping over the edge of her fur cloak and down her back. TRACK to the Godfriend’s left to show her somber expression in profile; SCHUYLER, waiting, fills the other side of the frame. The measured pace of ritual: the Godfriend draws a knife from under her cloak, raises it and drives it into SCHUYLER’s chest.
+
+AUDIO: Bright sound of shattering glass.
+
+VIDEO: The blade shatters against the leather pad. The Godfriend’s fist with the hilt clutched in it stops against his chest.
+
+AUDIO: The Godfriend’s voice: “Thus, Father-of-God.”
+
+VIDEO: SCHUYLER nods, the corner of his mouth twisting in a sour grimace. The next Godfriend steps up, taking the place of the first. SCHUYLER sighs, resigned to the loop of circular time as this woman raises her glass-bladed knife in turn.
+
+Endryx tapped out a fast forward command on her forearm. “The same thing,” she said, “sixteen times. No wonder Schuyler got tired of it. Until the last one—that’s Cynth.” She stopped the tape and hit RUNSEQ. The screen Urbenton gazed at filled with the warehouse interior again.
+
+VIDEO: The last woman stands in front of SCHUYLER. The rough-woven hood still hides her face, until she reaches up and pulls it back; her face is a few years older than the ones before her, and many years sadder.
+
+PAN and ZOOM to CLOSE-UP of SCHUYLER’s face. His bored expression changes, his eyes widening in surprise. Lips move, the mouth forming unheard words.
+
+AUDIO: A gun’s sharp roar.
+
+VIDEO: The bullet hits, and SCHUYLER’s face blurs as if jerked away by an unseen hand. QUICK PULLBACK. The body flies back against the wall, lifted in air by the impact from the gun in the woman’s hand at the edge of the frame.
+
+Endryx stopped the tape. On the monitor screen, Schuyler’s body hung against the warehouse wall where the bullet’s force had pinned it. “That’s it,” she said. “The shadow was just a couple of feet away from her; soon as I realized what was going on I sent it right into her. Knocked her second shot wild. Then the other Godfriends were on her and got the gun away from her.”
+
+Urbenton nodded. “He said something.” One thick finger pointed at the screen. “That the mike didn’t pick up. But you can see him say something, when he recognizes who it is.” Against his usual taste, Urbenton had been drawn into the tape’s small story.
+
+She shrugged. “We could run the visual through a lip-read scan, maybe. It’s only a couple seconds, though.”
+
+“Not worth it. It’s no big deal.” Urbenton pulled on his lower lip, mulling over the tape. “It’s just kinda striking. You can really tell how... surprised he was. Even kinda happy for a moment. Like he never expected to see her again, or something. And there she was.”
+
+“There she was, all right.” And then the real surprise, thought Endryx. Poor schmuck.
+
+Urbenton turned away from the screen. “If Speed Death wants to go with it, fine. Can’t hurt the real show. The audience’ll be watching the runs long after this guy’s cold meat. If he isn’t already.”
+
+She pushed herself up from the chair. The shadow tagged after her as she headed for the door. “I’ll let you know. From the hospital.”
+
+Urbenton’s gaze followed her. “Why hang around there? Nothing happening—the guy’s gonna be out for a while.” From the doorway, she looked back at him. “I like the little green TV’s they hook on to you there. That go blip blip blip along with your heart. It makes a nice image.”
+
+“That’s cool.” He swiveled around to the monitors. “If you’re sure it’s just image you want.”
+
+“I’m sure.” She pushed the door open to let the shadow step into the corridor. “That’s all I need.”
+
+On the bank of screens the machines went on moving across the night desert.
+
+Wyre stood in the hospital corridor outside the room they had put Schuyler in. With his shoulders against the wall, head tilted back, he watched from the corner of his eye as the shambling figure approached, like a bear dressed up in jacket and baggy denim pants. “Dolph,” he said when the other man was in hailing distance. “So you heard about it. ” A nod that brushed the other’s gray beard close to his barrel chest. “That woman,” said Bischofsky. “Endryx. She called and told me. ” He looked toward the room’s door. “How’s he doing?”
+
+“All right.” Wyre shrugged. “He should be okay. There’s going to be a lot of reconstruct done, though.” He straightened up, easing a knot out of his back. “I’m bushed, man. The doctors are going over the tests; they’re supposed to come back any time now with some kind of definite on him. If you want to hang around and maybe give me a call when they do...”
+
+“Sure.” The older man laid his hand on Wyre’s arm. “I’ll let you know.”
+
+After Wyre had disappeared down the corridor, he carefully opened the door and went in. Underneath the tubes and dangling cords, Schuyler’s form could be seen motionless on the bed, his face illuminated green by the slowly pulsing line on the screen above him. Bischofsky folded his arms and looked down on him, taking a post to watch and wait.
+
+Segment Two
+
+Time had passed, even in the slow universe of the hospital. For which Schuyler was grateful, finally. Anesthetic no-time, which had stretched the margins of the sterile bed out to infinity, the white flesh of his arms on top of the sheets like disembodied fragments washed up on a distant beach, had yielded to the ticking and slow drip of the machinery whose varied hoses and wires fed into him. When he had at first regained an edge of consciousness, he had fought against the process that would rejoin him to the rest of the universe, had swum away into the warm, still world behind his closed eyelids, all sight and hearing fallen away. Away from where time went on in its normal way, beyond the door of the hospital room, with its guns and roaring, tearing noises.
+
+Now I’m back, he thought as he leaned against the pillows. For better or worse. As pleasant as that other world had been, with the constant light overhead filtered into red and orange by his eyelids and the anesthetics reducing the regenerated flesh of his chest into a dull, comforting ache, this one had reclaimed him. His arms were his, connected to him again, wired into his nervous system. Mere thought could cause one hand to pick up the plastic cup from the little table beside the bed and bring it to his mouth to rinse out the chemical taste, drug side effect, that collected under his tongue. For which we are truly grateful, he thought. Simple marvels. Done even more easily now, since the last of the encumbering wires and tubes had been detached yesterday.
+
+The arm and its movements were part of the world of time. That was a small realization, but enough. You couldn’t have both that and the timeless semi-death’s comfort. He closed his eyes and lay back, flexing his hand into one fist after another, pumping the blood in and out of his heart.
+
+“Hey, Schuyler. How you doing?”
+
+He opened his eyes, lifted his head and saw Endryx looking around the door. She pushed it farther open and the lens turret of her shadow became visible behind her.
+
+“Great,” he said. “Can’t you tell? Come on in.”
+
+“Nurses tell me they’re about ready to spring you out of here. ” She half sat on one corner of the bed, elbow propped against the end-rail.
+
+Schuyler regarded her elongated, pared-down image, the black-denimed media gypsy’s uniform in high contrast against the white hospital linen. Her dark hair, close-cropped at her brow but trailing longer at her neck, feathered the collar of her multi-zipped jacket; her small breasts all but hidden by the frayed workshirt beneath. Eyes dark as well, with a cool, unwavering gaze, miniatures of the shadow’s all-absorbing lenses. It had stationed itself some distance from the side of the bed, its wide-angle lens swiveling into position to record the scene. The two entities, it had struck him before and now again, woman and machine, were alternative versions of the same concept. Stalk and observe, he thought. They see it and it happens. And in some ways, beyond the calculating and recording optical apparatuses, they had evolved together, coming to resemble each other. The shadow, despite its spidery tripod legs and rotating lens turret, was recognizably human, or as much so as a lot of things stalking around in L.A.; you could imagine talking to it, buying it a drink perhaps. Might as well, thought Schuyler. And the woman was becoming more machine-like, perhaps consciously so. Lean and functional, but machine-like without the old pejorative notions of programmed, unvarying activity; machine-like as we’ve come to know machines. Tougher and smarter than us, he thought. With their different ideas—different from human—on what’s valuable and worth doing. And without the factor of doubt; that’s where they’ve got us. He had seen that identical hard recording head behind the watching eyes and lenses. That’s what they share between them.
+
+“So they tell me,” he said. To escape their gaze, he looked down and undid the buttons over his chest, spreading apart the cloth to inspect the reconstruct surgeons’ workmanship. Above his head, he was dimly aware of Endryx and her shadow also leaning closer to look. He ran his fingers over the smooth scars, the visible tracery of the hidden repairs to the damaged flesh, bullet-torn lungs and case of bone. “Good work they did. ” He started redoing the buttons. “They took some tissue samples this morning. If the tests all read OK, then I’ll be out of here tomorrow.”
+
+“Going out on runs again?”
+
+He looked up at her. “Sure. That’s all a sprinter does.”
+
+Endryx nodded. “Glad to hear it. We can have the indies’ color men announce it on the next update. It’ll make a good lead-in; the first episode of your bio gets broadcast tomorrow night.”
+
+“Do it however you want. Doesn’t matter to me.” She tapped the controls on her forearm and the shadow moved closer to the bed. “Feel like going over some more tape? We weren’t quite finished when your... friend showed up.”
+
+The thought of his reconstructed past wearied him. Better it should remain buried, only the scars showing, the same as his flesh-and-blood heart. Reverse surgery, he thought. The doctors cut to heal; this is something different. But he had known it for some time, from the beginning, in fact. He only had to summon up his previous resignation. “Sure,” he said. “Fire away.”
+
+She was already unfolding the monitor screen from the shadow’s interior. “This is pretty much down to the final edit. Not much time left before it goes on the air. So don’t ask for any big changes.”
+
+“What episode is it?” He drew himself up against the pillows, readying himself. Even before Cynth’s bullet had landed him in the hospital, he had lost track of what sections of his past had been unreeled before him.
+
+The screen’s electrophores danced as static and resolved into a crawl of reference numbers. “This one will be the fifth and final,” said Endryx. “It picks up right when they first brought you to L.A., and Wyre recruited you to be a sprinter.” The screen blanked, then opened into other time.
+
+“What goes before that?” He felt too tired to reassemble his own history.
+
+She gave him a sharp glance, then ticked them off. “First episode covers when you were back at Northernmost Parish, and you wangling your transfer out. The second broadcast will be when you were on the train heading south, and your running into Cynth and Bischofsky aboard. Third’s Eureka Station, including the explosion and you and Cynth starting out on foot. Then fourth is the trek and the rescue. And bingo, like I told you, you’re in L.A. in the fifth.” He looked away from her. “Neat little pieces you got there.” Cut and dried, he thought.
+
+“We do our best.” She coolly fielded the comment. “People live in episodes. On video, at least. So that’s what we give them.”
+
+Schuyler said nothing. He gazed at the shadow’s extruded monitor, waiting. Beside him, he heard the motion of Endryx’s fingers on the control pad in her arm, and the screen filled in response.
+
+VIDEO: CLOSE-UP of SCHUYLER’s face. He appears a few years younger, but weathered. The planes of his face are hollowed by hunger and exposure. His gaze drifts off to the edge of the frame, as if distracted or listening to something not heard by others.
+
+AUDIO: “Schuyler,” says an off-camera voice. “Look at me.”
+
+VIDEO: PULL BACK to MEDIUM SHOT. SCHUYLER turns his distant gaze to the lens. He sits in a small office, a crowded desk between himself and the person who spoke to him.
+
+“You know what this means, don’t you? What we’re doing here?”
+
+Schuyler looked up at the Cathedra Novum official on the other side of the desk. Pay attention, he told himself. They’re probably screwing you over here; you’ll want to remember the details, for later. “I’m sorry,” he said. “Could... could you go over it again?” He rubbed his forehead, as though trying to draw his thoughts up to present time.
+
+“You’re being excommunicated, Schuyler,” the official said patiently. Maybe he had repeated it already; Schuyler couldn’t tell. “Kicked out of the Church, in effect. All the sacraments are closed to you. Forever. Your soul is forfeit to this world; the Church takes no further interest in it.”
+
+“Oh.” Well, shoot, he thought vaguely. He wasn’t sure of the extent of his own interest in the matter. Nor what the sacraments were; back at Northernmost Parish he had never gone to anything except Wednesday evensong, finding the tape-recorded choirs echoing against the concrete walls to be a soothing soporific on top of a six-pack. Now that was gone, he supposed, along with everything else. Reduced to a sad file in memory.
+
+“I’m aware of your scorn.” The official plowed on. “However, there are some practical considerations attached to this action that even someone in your depraved state might consider important.”
+
+Schuyler nodded. Lay it on me, he thought. He had no recall of coming to this room. It was as if he had woken up in it, with the rigid face of the CN official, reminiscent of old Lembert up north, lecturing him even when silent. No air conditioning in the shabby office, and a dry, desert-like heat—matching an imagined desert, the only one he’d known before—pulsing through the window, the view a brick wall baking in dazzling light. A silky dust coated the arms of the chair and the papers on the desk—he could see the official’s fingers draw sweaty trails across every piece he shuffled. It must mean I’m in L.A. now, Schuyler supposed. Confirming what he had been told by the Cathedra Novum guards that the Godfriends had handed him over to; nothing else had been said to him during the long train ride south from Victoria Base. That journey had given him uninterrupted hours to lie on the bunk in the sealed-window cabin and trace, and retrace, the parallel routes of event and distance that had finally brought him here.
+
+A bare image of shapes—buildings, the straight-edge angles of a city—silhouetted in air that was warm even when dark. So we got here at night, he thought. That was what he had seen, his first glimpse of L.A., when he had been taken off the train and pushed into a basement room with cot in the basement of some Church administration facility. All that just to get to this. To another Church subascendant laying out what a shit I am.
+
+“Your membership in the Church is ended.” The official picked up one of the papers. “Records show that you bartered all of your Church credits before you left Northernmost Parish; you would have been entitled to only the minimum benefits. That is, if you hadn’t violated Church ordinances regarding respect for other religions. Now you have no right to the bottom-level stipend from the Church, no right of entry to a Church dormitory or dining hall, no right to employment at a Church-operated facility. Do you understand what I’ve told you?”
+
+“Sure. I suppose.”
+
+“Sign this, please. It’s an acknowledgment that you’ve been informed of the Church’s position regarding yourself.” He took the offered pen and signed without reading, then handed the paper back to the official. “So what am I supposed to do for a living now?” That much of the fog-like sheath of memories had worn away.
+
+The official folded the paper and stowed it in the desk. “That’s of no concern to us, Schuyler. The Cathedra Novum was always an inconvenience in your life. I’ve read your file, the reports on your attitude. Well, now you’re free of all that; you don’t have to bother with the Church anymore. This is what you wanted. I hope you enjoy it.”
+
+“Fine.” He pushed himself up from the chair. “And fuck you too. ” The wire that ran through the memories, stringing them together, was the Church jerking him around. Me and everyone else, he thought, blood tightening his face. At least I’m not a stick-figure of ash and charred flesh lined up in the snow at Eureka Station, like all the other poor suckers the Church stuck there. “How do I get out of here?” After the corridors and stairs, he emerged from the building’s lobby into the hard glare of the L.A. sun. The Church guards on either side of the doors wore dark glasses to shield their eyes. One trained the mirrored lenses in his direction, studying him; Schuyler saw his own face, doubled. The same face that smooth surfaces back at the Parish had reflected back to him, but changed now. Something removed from under the skin; the circle of bone sharper around the eyes. That’s what it took to get to L.A., he knew. That’s the cost. The guard folded his arms and looked away, scorn at the corner of his mouth.
+
+Schuyler started walking, into the streets and buildings that became more and more real the farther he went.
+
+VIDEO: LONG SHOT, SCHUYLER’s image growing smaller as he walks down an empty street. The gray faces of the buildings loom over him.
+
+Propped up in the hospital bed, Schuyler nodded at the screen. “Your make-up crew really caught that one. I mean the face you gave me. I remember feeling exhausted when they booted me out.”
+
+“Not make-up,” said Endryx. She had leaned back and put her feet up on the edge of the bed. “Synth and key-in. They just went with what you told me on the pre-taping interviews.”
+
+“Whatever. ” He turned his attention back to the monitor.
+
+CUT to CLOSE-UP, SCHUYLER’s back. Someone else’s hand appears, and claps him across his exhaustion-rounded shoulders.
+
+“Schuyler—”
+
+He felt the hand on his shoulder, turned and saw the gray-bearded face, a visual spark jumping the gap between now and the last time he’d seen it. Then it had been lolling forward onto the barrel chest as the Church guards had dragged the limp body back onto the train. “Dolph,” said Schuyler. He grabbed the other’s arm with both hands, squeezing as if to focus him into sharper reality.
+
+“Good to see you.” Bischofsky laid his arm around Schuyler’s shoulder, drawing him farther down the street, kicking through the strata of ancient litter. “Really—you made it, you turkey. I knew you would.”
+
+“It took a while,” said Schuyler.
+
+“Yeah, well, the mill of the gods grinds slow. But it eventually grinds out justice. Which is what I’d like to believe, at any rate.” He thrust his hands into his pants pockets and walked on, dipping his head, bull-like, to follow the course of some connected thought.
+
+He looked thinner to Schuyler, as if, out of the snow and into L.A.’s heat, he’d shed an insulating layer of flesh. Though it could also be laid, Schuyler saw, to the change to a thin, open-necked shirt and faded denim jeans, rather than the padded cold-weather gear that had made him look like a quilted bear. A gray fringe of hair now just touched his collar, instead of tangling down his neck as before.
+
+“How’d you know where I was?” said Schuyler.
+
+“No big deal. Got my ways. Actually they informed me first about Lina being down here, in the hospital. The burn ward.”
+
+Schuyler stared at the other. “Lina’s down here? Already?”
+
+“Sure,” said Bischofsky. “Since yesterday. They flew up and got her while you were still out at Victoria Base. The doctors told me she would’ve croaked if you and what’s-her-name—Cynth—hadn’t popped her into the medex capsule as soon as you did, back at the Station.”
+
+Well, shit, thought Schuyler. A certain irony to it. Lina blows the place up and winds up getting a free ride down to L.A. While me and Cynth have to hoof it, through the snow and all the other bad shit.
+
+They walked on. “Did they ding you up pretty bad?” he asked.
+
+Bischofsky looked up at the question. “Hm? Oh—you mean on the train.” He rubbed the side of his head. “Still got a sore spot here. Couldn’t talk above a whisper till the train practically got here to L.A. Bastards had me in a chokehold on the floor. I made at least one of the fuckers sorry he ran into me, though.” The last recounted with enough relish to bring his own smile up.
+
+“I appreciated it,” said Schuyler.
+
+“Yeah, well, didn’t do much good. But they were screwing you over.” He shook his head. “So how you been, Schuyler?”
+
+He shrugged. “All right, I guess. Up and down.”
+
+“I heard about what happened. Most of it, at any rate. I got a lot of contacts inside the Church. Just gave you the boot, didn’t they?”
+
+“Sure did.”
+
+“Figured they would. Father of God, hm? You really got your foot in it this time. Hit a nerve—the Cathedra Novum higher-ups are crazy about the Godfriends. I think those withered-up old celibates have some kinko B and D fantasy built up around untamed dykes of the frozen north. Ha. Or something like that.” He looked sharply at Schuyler as they walked. “Got any money?”
+
+“Not really.” At Victoria Base, when he’d been told he was going to be taken to L.A., he’d realized that he’d left his small wad of cash back at Eureka Station: not so much as excess baggage not needed for the trek, but as an unconscious bet laid down against him and Cynth surviving at all. Don’t know if I won that one or not, he mused.
+
+“Don’t worry about it,” said Bischofsky. “You can flop down at my place. The Church keeps me on a pretty short leash—any supplies I need, I gotta put in a req order to them—but we can always water the soup down some more. Come on.”
+
+They worked their way through a thin cross-section of L.A.; under the sun’s weight, Schuyler pulled his jacket off and slung it as a sweaty rag in the loop of his arm as he walked alongside Bischofsky.
+
+“It’s not a bad town.” said Bischofsky. “If you don’t mind people going around mumbling to themselves. Seem to do a lot of that here.”
+
+Schuyler looked around at the dust-shrouded streets disappearing into the sun’s haze. Distant gray hills beyond the city’s shapes. They had arrived at a zone of people, and motion and noise. Eyes focused on him, then moved on in their tracking search. Other figures shuffled away on their errands. For a moment the scene, the whole city as far as his vision reached, seemed to be vibrating at a pitch tuned to the edge of his hearing.
+
+He turned and looked at Bischofsky, a smile breaking through his exhaustion. “It’s everything I ever hoped for,” he said.
+
+“Be it ever so humble.” Bischofsky pushed open an unpainted door. They had walked on into another relatively quiet zone of corrugated metal buildings. “Back here.”
+
+Schuyler ducked his head to follow him into darkness. The low-ceilinged corridor ended in a space bright and open enough that for a moment he thought they had stepped outside on the building’s other side. The glare dimmed in his eyes, and he saw the wall of clear glass, divided into squares by aluminum framing, reaching up to the roof’s interwoven struts.
+
+“LTA,” said Bischofsky, watching him crane his neck to gauge the height above.
+
+“What?”
+
+“Lighter-than-air facility. Blimp hangar. Big rubber company used to keep one here, send it out to advertise tires. Only place the Church could give me that had enough room.”
+
+Overhead a pigeon pushed away from a metal beam and flapped through an open skylight. Schuyler brought his gaze back down to survey the rest of the building. A small area had been carved out against one wall, evidence of human habitation: mattress on the bare concrete, refrigerator, table, chair, Bischofsky’s meager wardrobe slung over a rope stretched between two eye-bolts. A computer terminal, its thick cable snaking across the concrete, completed the tableau.
+
+“Hey, Wyre!” Bischofsky’s shout was swallowed, echoless, into the cavernous space. “Come on down—got somebody I want you to meet.”
+
+Schuyler turned and saw a crane in front of the windows move. The articulated arm bent, lowering the basket and the figure at its controls. As the slow, mechanical descent neared the floor, he saw the lanky frame and sharp-edged face, one eye magnified by a lens angled down from a headband.
+
+“This is my buddy,” said Bischofsky. “From the train.”
+
+Wyre swung his long legs over the side of the crane’s bucket and walked toward them, wiping his hands on a rag that he stowed in his back pocket. “Schuyler,” he said. “Right?” The lens stayed in position, as though the magnified eye were studying him. He pushed the headband up across his close-cropped hair. “Father of God and exChurch.”
+
+“Word gets around,” said Schuyler. The other’s scrutiny irritated him. The lean face seemed a knife sharpened for gathering secrets. Like an animal, he thought. A skinny wolf scooping out its, and everybody else’s, territory. Beyond that unease, he saw that the lensed headband and logic probe slung on his hip were stamped with the insignia of the Cathedra Novum engineering staff.
+
+“Don’t worry about it,” said Wyre, tracing the direction of Schuyler’s gaze. “I’m strictly free-lance. This is just some equipment I wangled off one of Dolph’s req orders. Good stuff—they’re going to be out a few bucks when they try to get it back.”
+
+“Wyre’s my main man,” said Bischofsky. “Tech-wise, that is. The Church wanted me to use one of their crews, but they didn’t have anybody who could do some of the stuff he does.”
+
+“Or as cheap. They’re getting a bargain.” Wyre turned back to Schuyler. “Don’t sweat it if everybody you run into knows your story. This is a hustling town—people get angles down fast.”
+
+“How’s it coming?” Bischofsky walked over to the wall of glass and looked up into the light streaming through the panes.
+
+Wyre shrugged. “Getting there. Down to the fine tuning soon.” He gestured for Schuyler to follow him over to the terminal. “Watch this. Cheap thrills.” He tapped out a command line, and the light pouring across the concrete floor changed subtly.
+
+Schuyler looked up from the terminal screen and saw that an oblong of glass, intense blue, had appeared near the top right corner of the windows. As he watched, the sound of Wyre’s fingers on the keyboard beside him, the glass piece rotated slowly, first perpendicular, then parallel to the floor. The blob of color cast on the concrete shifted, following the glass’s motion.
+
+Bischofsky stepped back to study the piece. “Oh, right. B series.” He scratched at his beard. “I remember this one—number four thirty-eight.”
+
+“Thirty-seven.” Another quick tap at the keyboard, and the piece halted in place.
+
+“Looks like you finally got the color down. That friggin’ blue’s a bitch to match.”
+
+“Lot of funny gradations there,” agreed Wyre. “Something funny added to your basic oxide of cobalt there. Plus the blue was nearly all flashed glass; that transparent layer really bends the spectrum.” As if remembering he was there, Wyre leaned closer to Schuyler. He gestured at the wall of windows with its one spot of blue superimposed. “What we got is an interference grid, set out from three angles about a foot in from the wall. On that we can position the image of any of the catalogued glass pieces, then rotate it through any plane—like you saw. The grid’s infinitely divisible, so Dolph can get the exact positioning he wants.”
+
+“This is from the window up north?” Schuyler nodded at the point of blue. “From the excavation at Northernmost Parish? But just simulations. Why not use the actual pieces?”
+
+Wyre shook his head. “The glass is too fragile to risk it, what with all the moving around Dolph wants to do. Besides, a lot of pieces are still being analyzed down at the Cathedra Novum labs. There’s more data—spectrographs, density scans—coming in all the time. We can factor it all in as it shows up, then adjust the display as necessary. Once I finish setting it up. If all those tiny scraps had to be moved around mechanically, it’d take forever. This way, zip— whatever arrangement Dolph’s theories have come up with.”
+
+Bischofsky had fallen silent, lost in study of the simulated image of blue glass far above his head. He turned around. “Can you put up the rest of the B series?”
+
+Another command line, and a row of blue shapes appeared across the top of the windows. Most were irregular squares, a few triangles, but all with the same deep color. The outside light burnt through the glass images as ink flame. The air inside the high-ceilinged space shifted, almost cooling as it followed the spectrum. Like going underwater, it struck Schuyler. The view from beneath some ocean.
+
+“We’re definitely going to need that latitude adjustment,” said Bischofsky after a moment’s contemplation. “You got the glass right, but it’s the light—it’s the light coming through we gotta work on.”
+
+“He wants another grid set up,” explained Wyre. “In front of this one. To filter the light before it goes through the glass images. So as to get light composition corresponding to different geographical latitudes, incline of the sun to the earth’s surface, and so on. He’s got some theories that the arrangement of the pieces may depend on the map location where they were set up to begin with. So we have to be able to vary the light coming in along those lines. That’s going to be the toughest,” he said as Bischofsky approached the terminal. “Can’t see light—always harder to fake the invisible.”
+
+“Shut it off.” The light across Bischofsky’s wide shoulders shifted up from blue to unfiltered daylight as Wyre skipped one finger across the keyboard. “I got faith in you. I know you can do it.”
+
+“Whatever.” Wyre leaned his elbows on top of the terminal. He turned his sharp gaze back to Schuyler. “That’s what’s going on around here, at least. What’s your shtick?”
+
+“What?”
+
+“You just got bounced, you’re not on the Church tit any more. What’re you gonna do for cash?”
+
+“That’s why I wanted you to meet him,” Bischofsky said to Schuyler. “Wyre’s got a way of getting down to basics. Got any ideas?” The last to Wyre.
+
+“Maybe,” said Wyre.
+
+I bet you do, thought Schuyler. The other’s face had the sharp, feral pitch of someone holding hidden threads through a maze. Like an animal that knows every twist and exit of an underground burrow. Secret knowledge, that meant survival; the image of a fox or lean-ribbed wolf struck him again. But not vicious; there had been an actual note of kindness, barely perceptible, in Wyre’s talk of all the tech stuff he was doing for Bischofsky. As though, he thought, the work’s some kind of indulgence, a friend’s quirk gone along with for the sake of the friendship. But still—a warning generated from inside himself—best to watch out. “Like what?”
+
+“Different stuff.” Wyre’s gaze drifted over the blank windows, as if he were shuffling through an interior card index. “You’re in luck, actually. Being here. It’s like that old line John Doe once said—you probably don’t know who I’m talking about, but I’m a big X collector; I’ve got a lot of stuff from before Doe and Cervenka were canonized, the original ‘White Girl’ acetate, things like that. Anyway, John Doe once said that L.A. was the best city in the world to be broke in. At least you don’t have to worry about freezing to death. And there’s things people can do for money. Might try sprinting.”
+
+“What’s that?” He had heard the word before, with some other connotation attached to it, part of the vague, dangerous constellation of images that had drawn him to L.A. to begin with. Now he realized—now that it had been taken from him—how much protection he had been counting on from the Church, that he had in fact always counted on. Which is money, he thought, a safe little bit of it. A thick glass barrier between himself and the toxic excitement of L.A., so he could see it but not be touched by it. But a single blow had shattered that glass. You’re in it now, he told himself. For good or bad. Now you’re in this world. “You know,” said Wyre. “Be a sprinter.”
+
+Now he remembered. “You mean that chip-running bullshit?” Some of the people he had known back at Northernmost Parish had hot-wired their Church-issued microwave dishes to bring in the scattered edge of the indie satellites’ broadcasts. There had been a brief vogue for the coverage of the sprinter runs; he hadn’t cared much for them, there being no attempt at plot, just the endless high-speed motion of the cars across the night desert and the fiery explosions of the tracking satellites’ missiles. He’d heard the shows were popular in the high-density dorms of the Latin American and Newhonk factories, that being where the indie satellites mainly aimed their broadcasts. “Forget it. I need to find a way to make a living, not get my ass blown off by by some antique military sky ware.”
+
+“Well, that’s the point, see. Sprinters don’t get hit by the missiles. At least, very few do. That’s the talent.”
+
+“Right. And I can imagine how you find out if you have the talent or not. Tough luck if you go out there and you don’t.”
+
+Wyre smiled, looking even more feral. “Naw,” he said. “There’s other ways.” He pulled off the headband and unslung the logic probe from his hip, then bent down to pack them into a cluttered leather carryall. “Hey, Dolph. We’re going over to my place. So I can run some tests on Schuyler.”
+
+“You guys go ahead. ” Bischofsky placed himself in front of the terminal and began tapping at the keyboard. “I got an idea I want to work on.”
+
+The light around them deepened again as Schuyler followed Wyre, toting his equipment, toward the door. He looked over his shoulder and saw the same blue shapes on the window grid, slowly forming themselves into a circle.
+
+VIDEO: MEDIUM SHOT, EXTERIOR: two men, backs turned toward the camera. Sunlight glazes a corrugated metal door. One man bends his head over the work of undoing a padlock. The other, in profile watching, is SCHUYLER. The lock comes free; WYRE looks up as he pushes open the door.
+
+AUDIO: “This is the place,” WYRE announces.
+
+VIDEO: CUT to INTERIOR: a dark, cramped space, the L.A. glare spilling down a wooden stairway from above. PULL BACK as SCHUYLER and WYRE descend.
+
+A row of high, dusty windows looked out onto the bare sidewalk baking in the sunlight. Schuyler followed Wyre through the cool darkness, suddenly illuminated when the other pulled the chain of an overhead utility lamp. Wyre slung his equipment bag onto a cluttered workbench and continued through the narrow corridor formed of stacked electronics, wires and circuit boards spilled in disarray, picking and gathering certain gear as he went.
+
+“Here’s the pitch,” said Wyre as he returned, his arms full, to where Schuyler was standing under the swinging light bulb. “Sit over there, will you?”
+
+Schuyler sat on the indicated fiberboard crate and waited.
+
+“Basically,” said Wyre, hands moving deftly among wires and other, more mysterious parts on the bench, “there are three overlapping fields of pursuit satellites over the spring routes. Otherwise it’d be a straight shot from the underground factory ruins at Phoenix, to L.A. No trick to it at all. But if you’ve ever caught any of the indie broadcasts of the nightly runs, you know the satellites make it a different picture. The pursuit satellites were really the limit of tight-focus American military tech when they were put up. The weathermods are general in effect, really were more instruments of economic warfare than the traditional run-’em-and-gun-’em; more of a nuisance, once you adjust to the new weather patterns. Nowhere near as sexy as killer trackers with optic and thermal scans capable of picking up a coyote fart out on the high desert and then zapping the poor son-of-a-bitch to ashes. That’s the kind of thing that really got the military appropriations blood pumping in the old days.”
+
+Wyre’s high-speed discourse bounced around the limits of Schuyler’s temples. An amphetaminoid rap, he thought. Minus the drugs. In his own den here, the exteriorization of his skull’s contents, Wyre had obviously connected with his own adrenaline source. A man who loves his work, thought Schuyler. “How come those things are still up there?” The question was meant to slow down the stream of words as much as for information.
+
+“That’s an interesting question.” Wyre peered into a circuit-board-stuffed metal box. “Obviously, they’re well-built; the pursuit satellites were the last great Hughes Aerospace production. And ammunition’s no problem; ‘missiles’ is actually a misnomer cooked up by the indies for an unsophisticated audience. What the satellites shoot down is really a pulse-phase particle beam; the explosion when it hits is the struck matter coming up to synch with the beam and then destabilizing when overloaded. Small-scale nuclear reaction—takes only a microsecond. The trails you see in the sky are the same thing happening with the atmosphere’s molecules. So anyway, there’s no chance of the pursuit satellites’ running dry. They can generate operating power and particle beams until the sun goes out. No, the real question is why the satellites haven’t been taken down. They’re still under the control of the American military authorities back East—why don’t they shut ’em off?”
+
+“I’ll bite,” said Schuyler. “Why?”
+
+“Different theories.” Wyre screwed the back panel of the metal box back onto the frame, finished with its inside workings. “After the Cowboy Soviets were broken up on the West Coast, the government back East didn’t have the resources to establish control this side of the Rockies. There was a whole Korean Mafia rising around the Moonie communes in Virginia that they were barely able to put down. The Cathedra Novum’s parish organization was the only structure with enough depth to fill the void. And still is, which is why we got a dual protectorate state here in L.A. Nominally, all the western territory is under the control of the American government—they could go into Phoenix, blow up what’s left of the underground factories, and put an end to the chip-running right at the source. But they’d be risking a confrontation with the Church over who’s really got the power out here. Theory goes that certain Cathedra Novum higher-ups are getting paid under the table by the Europeans who buy the bootleg chips, for them not to interfere. So the sprinters are operating in a gray zone; technically, the chip-running is illegal. But it’s tolerated. Keeping the pursuit satellites left over from the war up in the sky is the American government’s only way of keeping the trade down to a low roar. The limit isn’t even how many chips can be brought out from Phoenix to the black market in L.A., but how many can be bought by the big Euro-manufacturers like Philips and Neue Krupps A.G. without being able to come out in the open and admit they’re using them—they can’t risk losing the markets controlled by the Americans.” Wyre set the box upright and switched on a row of lights underneath a round mesh grille in front. “Of course, another theory is that the payoffs run the other way, that certain American government figures get paid to keep the satellites up as the official way of keeping the chip-running down. As long as the sprinters are able to get through with the chips, the Europeans are happy.”
+
+“What’s so special about these RH chips, anyway?”
+
+“Actually, you’re about to get a demo.” Wyre plugged in a set of headphones to the box. “Sorry it’s taken so long to get this set up, but I had to tear it down last night to put in a new chip. RH’s are a little volatile; you can fry ’em out real easy.” He fussed some more with the wires. “RH stands for ‘random hierarchical.’ That’s the distinguishing characteristic of these chips. They have a true randomizing factor built into them, and one that influences the subsequent operations of the chip. In a sense, these are the only devices that replicate an essential element of human intelligence: the ability to make mistakes and then draw everything that follows into compensations based on that error. All other mechanical or electronic randomizers don’t generate true random events; they’re really just complicated equations that produce a long string of numbers. Once you dope out the equation, you can predict the next pseudo-random number. Unless it’s based on particle decay or something like that, and then you run into other problems. Those bullshit randomizers and their operations are thus entirely contained in this world. An RH chip’s randomizing factor, however, can’t be worked out. It creates a ‘true error,’ one that can’t be predicted from inside this world. And then the chip can’t admit it’s wrong—it has a rudimentary ego, in a way—and so creates a supra-reality, a reality that it operates on, different from this one. And before this world can incorporate that deviation, make it a factor in this reality and thus predictable, the RH chip has already made its next ‘error’ and based another supra-reality on it, and so forth. Got it?”
+
+“Christ, no.” Schuyler didn’t add the rest of his thought, that Wyre and the RH chip sounded equally cracked.
+
+“Doesn’t matter. A lot of this is ex post facto theorizing, anyway. All of the research that led to the Hoger/DMM process was lost in the war, anyway. Hoger himself was killed in the first raid that hit the Albuquerque factories. And nobody’s been able to duplicate the manufacturing process. That fact, of course, adds to the value of the chips brought out by the sprinters. Once the Albuquerque and Phoenix ruins are mined out, that’s it, no more. There’s some speculation that the acid baths used to etch the RH chips were contaminated by a virus-like organism that operated on gallium arsenide rather than proteins, and that the randomizing factor is a mirror image of that organism’s life cycle. Or, if you want to get further out, there’s supposed to be some radical theologians inside the Cathedra Novum itself who believe that a true randomizing factor is evidence of God’s intervention in this world, and that’s why the sprinters are unofficially tolerated.”
+
+“Great,” said Schuyler. “God’s intervention does you a whole fuck of a lot of good these days.” The image of Cynth waiting out her God-ordained pregnancy in her little cell came to his mind.
+
+“I knew you’d dig it. At any rate, the important thing to remember is that the RH chip mimics human intelligence by misperceiving the world, and then drawing the world into alignment with that misperception. The theory changes the reality it describes. So it’s truly unpredictable by normal methods; it predicts you, not the other way around. That’s what makes the pursuit satellites above the sprinter routes dangerous; they’ve got RH chips built into them. So the scatter pattern of their particle beam hits can’t be figured out.” Wyre patted the top of the metal box on the bench. “This thing here is called a co-pilot. All the sprinters use them. It contains an RH chip as well. But it’s designed to operate in synch with a human brain; it creates a double randomizing factor. Just as the pursuit satellites’ RH chips get above this reality with the supra-realities they create, this gets above the supra-realities and incorporates them. Makes them predictable.” He fell silent, a pleased look on his narrow face.
+
+Schuyler realized that the next line was his. “Did you— what? Design this?”
+
+“Nah.” He shook his head. “Not really. I’m strictly an applications man; just your basic pliers-and-screwdriver stuff. You need an electron microscope for starters, just to begin program work on an RH chip. You’d be lucky to find a magnifying glass in L.A. No, what happens is Speed Death sends me the sealed units their micro-designers have worked up, plus the basic input-output codes, and I plug ’em in. But the actual hard-wire engineering of the end device is all mine.”
+
+“But you’re not part of this Speed Death? I mean, on the payroll?”
+
+“Strictly free-lance. Piece-work, jack. They needed a fixit man on the spot to build and maintain the running gear for the sprinters. I’m the best in L.A.; I do all kinds of shit, for all kinds of people.” He picked up the metal box and turned it around. “Nice for me that these RH chips have a high burn-out factor. A little built-in obsolescence keeps the cash flowing.”
+
+“How’s it work?” said Schuyler.
+
+“It talks,” said Wyre. “It scans and analyzes the hit patterns of the pursuit satellites, then creates a verbal interface between its randomizing factor and that of a sprinter’s brain. The words are nonsense on the surface, but the sprinter absorbs them—below conscious level—as data from a source not contained in this world, and then bases an evasion pattern on that data.”
+
+“So you say.”
+
+“Well, it works most of the time. There’s been no more than an occasional near-miss for a couple years now.”
+
+“For anybody?” asked Schuyler.
+
+Wyre shook his head. “No. You have to have the talent. The sprinting talent. A few people respond to the stimulus of the co-pilots’ output. Most people don’t.”
+
+“And you think I will. Why?”
+
+A shrug. “Sprinters have certain... qualities in common. A certain fucked-up nature. As if a parallel error-generating process got lodged in their hearts.”
+
+“Thanks. I got reasons.”
+
+“Everybody does. Want to give the test a shot?”
+
+“Why not,” said Schuyler. The operating principle of my life, he thought. From this point on. “What do I have to do?”
+
+Wyre held out the headphones. “Left channel’s a simulation of the pursuit satellites and their missiles—particle beams, actually. This co-pilot”—he indicated the metal box—“has two RH chips in it. One generates a random strike pattern corresponding to how the real satellites operate. You’ll hear some low rumbling sounds; that’s the missiles hitting ground. Or you. Also there’ll be a constant twittering sound, like birds. That’s the analog data of the satellites moving around. The right channel is generated by the other RH chip. It’ll be that verbal stream I told you about. The chip is scanning the events simulated by the first chip, and creating an interface based on them.”
+
+Schuyler slipped on the headphones. A trilling birdsong in his left ear, and silence in his right until a synthesized voice said matter-of-factly, “A red hut gravity. Being and the as as silkily?” He lifted the rear earpiece, the nonsense words then tinny and faint, to hear the rest of Wyre’s instructions.
+
+“Keypad’s for your responses.” Wyre handed him a hand-sized assembly of six pushbuttons and plugged the trailing cable into another socket on the box. “Simulates the evasion pattern you’d set up if this were real. Just listen to the two tracks and push whichever buttons, whenever you want.”
+
+He turned over the keypad, as if more instructions would be found on the soldered metal’s underside. “That’s all?” said Schuyler. “Am I supposed to—what? Blank my mind? Alpha state or something?”
+
+“Whatever you want,” Wyre said patiently. “Doesn’t matter. If you got it, you’ll know what to do.” He flipped the last switch on the front of the co-pilot, and a small LCD spelled out PHOENIX. “That’s your starting point. Ready to go?”
+
+“Sure.” Bullshit, thought Schuyler. There’s more than one stream of nonsense words shooting through here. He settled the headphones back over his ears. The bird twittering grew louder, then leveled off. “Glazed show omelet regard angelic,” muttered the flat voice in his other ear. He sat with the keypad balanced on his knee. Bored. Experimentally, he poked a couple of the keys. As if in response, a bass note growled in his ear. Another, fainter with simulated distance, sounded after. Unbidden, a trickle of adrenaline fed into his heart, speeding it. “Angelic blastoma.” He strained to catch the voice’s next words, suddenly the most interesting thing in the world.
+
+VIDEO: MEDIUM SHOT, PAN away from SCHUYLER concentrating on the test, to WYRE calmly fixing himself something to eat, and around the workshop. The passage of time indicated by return of the shot to WYRE to show he has finished eating. TRACK as WYRE goes to SCHUYLER, who takes off the headphones. CUT TO
+
+CLOSE-UP of the metal box as WYRE shows him the LCD; it reads LOS ANGELES. CUT to scenes of SCHUYLER starting out on his first run.
+
+He closed his eyes, letting himself sink back into the pillows. The LCD spelling out L.A. as his destiny remained as an after-image. “It’s fine,” he spoke, without raising his eyelids. What do I care? he thought. He couldn’t recall having had such a detailed conversation with Wyre at any time, let alone five years ago; such a neat, precise explanation of this little pocket of scurrying human activity. Somewhere along the line he’d found out what sprinters were, the value of the cargo they carried and how they brought it across the missile-lit desert landscape. If it had happened the way it had in Endryx’s tape, fine; and fine if it hadn’t. The past was beyond his reach. Having enough flippin’ trouble with the present, he thought in the dim hiding place behind his eyelids.
+
+“There was some other stuff I wanted you to look at,” Endryx’s voice came to him.
+
+Weariness unconnected with his wounds drained through him. He lifted his hand and waved her off. “However you got it,” he said. “It’s fine by me. You know everything that ever happened to me better than I do.” He brought himself out of darkness to look at her. “Just because I was there— that doesn’t mean anything.”
+
+She smiled as she stood up from the corner of the bed and began folding the blank screen back into the shadow, the machine’s round glass eye drawing back to record the scene. “Okay,” she said. “Just remember. I don’t want to hear any complaints from you after the broadcasts.”
+
+“I don’t have any complaints about anything.” Schuyler wondered, as he watched her deft hands involved with the machinery, if this was a point at which she had engineered his arrival. The signing over of his past to her, a malleable substance to be worked over at her editing monitor, until it achieved the proper form and consistency. Like bread, he thought. In the blue glare of her kitchen. Where you can get sliced and fed to yourself, a self-consuming transubstantia-tion. This is my flesh, this is my past. Fictional or otherwise; reality, he supposed, was what you made of it.
+
+He heard the door open again and swung his gaze around. Wyre—in flesh, not videotape—slid into the room. His sharp-edged face broke into a grin.
+
+“Schuyler, my man.” Wyre leaned over the bed’s end-rail. “Hear you’re about to rejoin the living.” He looked around at Endryx and nodded in recognition.
+
+From the bed’s vantage point, Schuyler observed the glance between the two and broke it down into its various parts, or what he imagined them to be. Endryx’s high-tech connections had earned Wyre’s admiration from when the video-bio taping had first begun; the two of them were on some abstract wavelength not shared by mere mortals. The shadow, the extension of Endryx’s existence, being the ultimate target of Wyre’s attention; the gaze with which men undressed women taking in both Endryx and the machine equally. He wondered whether any loop in the shadow’s archives recorded both a sexual encounter between them and a partial disassembly of their electronic devices.
+
+“That’s right,” said Schuyler. “They’re kicking me out.”
+
+“Figured I’d better bring you this.” Wyre lifted his canvas bag, weightier than usual, up onto the bed. “Time to start polishing up your skills. ” He extracted a familiar metal box and held it out.
+
+“Amf. Well, all right.” He found himself oddly pleased at the sight of the co-pilot. He hadn’t even though about the device all this time, while it had been sitting—he assumed—unattended in the dark warehouse. Now this little piece of that other life was here with him. He flipped its power switch and tilted the speaker grille toward him. “Nice to see you, Amf.”
+
+“Your ass.” The synth voice snapped at him. “Don’t give me that ‘nice’ crap. Because of you I got shot. Thanks a lot.”
+
+“Don’t let him hand you a line.” Wyre touched a soldered patch on the side of Amf’s metal case. “He’s as good as new. I left the scar just to give him something to brag about.”
+
+“Hands off, turkey—”
+
+Schuyler switched off the machine. He remembered now what he had been told about Cynth’s other stray shots. Though accurate enough, he thought. At least at short range. “Thanks,” he said. “I missed the little son-of-a-bitch.” Realizing that he had.
+
+Wyre moved toward the door, lifting his carryall from the bed. “Gotta run. Catch you at Dolph’s, maybe.”
+
+“Yeah, sure.” He and Endryx were alone in the hospital room again. Plus her shadow’s constant presence.
+
+She pushed her jacket sleeve down over her forearm control pad. “Me too,” she said. “Going to be a hustle to get this ready in time for broadcast. At least the first episode’s in the can, ready to go.”
+
+“Sorry I couldn’t help you more. Still a little tired, I guess.”
+
+“Don’t sweat it. See you on the outs.”
+
+After the door had closed behind the two figures, human and mechanical, Schuyler rested the silent metal box on his stomach, then switched Amf on.
+
+The expected saw-toothed voice remained silent. Bending closer to the speaker grille, he heard a crackle of static, the noise of circuits misfiring. Then a voice, different, that he had never heard from the device before. It sounded faint, filtered by distance. One word came through.
+
+“... dying...”
+
+What the hell. Schuyler lifted the device to study it, peering in through the grille. So much for Wyre’s repair work. I thought he was better than that.
+
+The static hissed and snarled again, louder. Than the voice, in mid-sentence.
+
+“... dying... they’re all going to start dying. Listen, Schuyler... this is important. Now they’re ready... the sprinters—they’re all going to start dying now... watch—”
+
+His own name chilled him, scratched out by the fading voice. It cut off, replaced by silence.
+
+Jesus, he thought, nothing else, no other words. This was something new, unexpected. Another new thing had entered his world, speaking its own name aloud this time, speaking of death.
+
+Maybe it was a joke. Wyre tricked Amf up to freak me out. That must be it. Schuyler flipped the switch, killing the red LED under the grille, then set the metal box carefully on the bedside table. He watched it in silence.
+
+Segment Three
+
+First day out of the hospital; he spent it shuffling about inside the warehouse, reorienting himself to the spaces and objects that in two weeks had become as foreign, yet oddly familiar, as the rebuilt tissue in his chest. Home’s where your new heart is, Schuyler thought as he poked through the debris drifted against the walls. He opened all the skylights so that L.A.’s dry winds could drive out the musty air. A thin layer of dust had drifted onto everything except the sprint car. That had a note taped to the side window: TUNED AND READY TO GO.—w. With his usual regard for things mechanical, Wyre had kept the car spotless in Schuyler’s absence. It figured; he crumpled the paper into a ball and tossed it on the floor.
+
+A walk to Bischofsky’s studio, to kill time and thank him for time spent at the hospital. Even before he’d gained full consciousness, Schuyler had been aware of the broadshouldered, gray-bearded figure, as if standing guard at the bedside.
+
+He found Bischofsky slumped in his chair behind the terminal, gazing in deep depression at the floor. The small figure standing next to him broke off in mid-harangue and swung her gaze around at Schuyler. A frozen, shinyskinned face under a slightly askew black wig—as though a store mannequin’s head had been transplanted onto the woman’s body. That being the limit of the facial reconstruct work Lina had received some five years ago at the Church hospital. A wax mask, thought Schuyler every time he saw her. It was somehow appropriate. His having also survived the explosion and fire at Eureka Station—which she’d caused—had somehow become linked in her cracked brain with all her subsequent complaints against the world. The hatred she bore him was entirely readable by the narrowed eyes set in the immobile face. Their separate journeys out of Northernmost Parish had both ended up in L.A. It hadn’t seemed to have made much of a difference in Lina; she had just carted her lunacies along with her and earned a face to match them.
+
+She scuttled out, giving Schuyler a wide berth. He turned back to Bischofsky, still gazing at the floor. “What’d she want this time?” An often-repeated question; he and Wyre often spent time bucking their friend up after one of Lina’s blitzkrieg visitations.
+
+“Who knows.” Bischofsky sighed and shook his head. “Came in here screaming. Her usual mode. Says she’s pregnant by me.”
+
+“You’ve been sleeping with her?” Hard to believe, but Bischofsky had a reservoir of pity for his ex-wife—usually expressed in the form of money—that had long baffled and infuriated everyone who knew him.
+
+“God, no. She thinks I did it by telepathy.”
+
+Such were the workings of Lina’s mind. Schuyler walked to the center of the studio and looked up at the rose-window simulation. That was the easiest way to break the cycle of Bischofsky’s thoughts, by setting him back onto his main obsession. “This a new arrangement?” he said. “I don’t remember seeing this one.”
+
+Bischofsky straightened up in the chair and made some adjustments on the terminal; the window’s colors brightened. “I’ve been trying out some geometrical schemes. Overlays of pure classical models. This arrangement’s kind of a combination of the Rose de France pattern in the Chartres north transept, where you got sets of squares on a Fibonacci spiral, and the Alchemists’ Rose at Notre-Dame with the interlocking stars you get from running an endless line from point to point on the circumference.” Thoughts of Lina were far away now, as Bischofsky worked the keyboard to point out the arrangement’s intricacies. “You do the two patterns separately and you don’t get a very high probability rating, but the interesting thing is that the rating goes up when you superimpose them...”
+
+Schuyler headed back to his own place after an hour of glass talk. Endryx showed up in the evening, the shadow stalking along behind her, the points of its tripod legs picking through the littered concrete.
+
+“They told me you weren’t going out on the run tonight.” She stood by his chair and touched his shoulder.
+
+Schuyler, his spine loosened by the day’s drinking, looked up from his slouch and nodded. “Doctors told me to take the first day off.” He lifted a half-drained can from its perch on his belt buckle. “Ease into things.”
+
+“Tonight’s the telecast,” she announced. “Of the first episode of your bio.”
+
+“So I heard.” He swallowed, eyes closed and head tilted back.
+
+“Are you going to watch it?”
+
+He shrugged. “Sure. Why not. I fascinate myself.” Endryx began rolling up her jacket sleeve. “How about if I set up, then. Catch your reactions to it.” The shadow, obedient to her fingers on the control pad, spidered into position.
+
+The red light blinking on atop the device’s lens turret tapped at the corner of his eye. “Go ahead. We’re in it this far.” His resignation to the process was complete. He watched as she pulled out the monitor screen from its niche inside the shadow and tuned it to one of the indie frequencies. She brought another chair out of the warehouse’s kitchen area and placed it to one side and behind him so as not to show up in the shadow’s camera angle.
+
+One of the color men—all equally obnoxious to him— was on the screen, hyping the bio broadcast. A blown-up still of Schuyler was behind the jabbering head. He gathered that the show was just minutes away. Glancing up at the dark sky visible through one of the skylights, he realized that it was later than he’d figured; the day had slipped away in an alcoholic haze.
+
+“Here it comes.” Endryx’s soft voice sounded behind him.
+
+The opening credits scrolled by quickly, as well as he could keep track of them. Then he found himself looking at the snowbound streets of Northernmost Parish.
+
+VIDEO: LONG SHOT, streets covered with snow except for rutted lanes plowed through the middle. The drifts are piled high against the contrasting dark buildings. PAN to show the narrow alleyways branching off; in the distance, the skeletal form of a building crane looms over the low structures. CONTINUE PAN, then HOLD when a figure is revealed, walking toward the camera. CUT to
+
+MEDIUM SHOT, the figure is SCHUYLER, younger by five years, hands thrust deep into the pockets of a heavy jacket, collar turned up against the cold. His breath clouds in front of him as he works his way along the narrow line trampled into slush at the side of the street.
+
+AUDIO: The whine of a motorcycle engine, faint, then growing louder as it approaches.
+
+VIDEO: CLOSE-UP of SCHUYLER’s face as he turns toward the sound. PAN to follow his gaze. HOLD on LONG SHOT of the street; the motorcycle appears and speeds toward the camera. As it approaches, a Cathedra Novum dispatch rider can be seen. ZOOM and HOLD. His features are hidden behind the helmet’s black faceshield. CUT to
+
+LONG SHOT of street, as before. The motorcycle leans into a turn, heading away from the camera. Suddenly it loses traction in the plowed slush; it goes down. The rider’s gloved hands rise from the grips as he falls into the banked snow. Sparks flare around the spinning machine as the edge of its motor digs through the ice and finds the hard surface beneath.
+
+AUDIO: The engine sputters and dies.
+
+VIDEO: For a moment the rider lies, arms flung wide, in the bed of snow. CUT to CLOSE-UP of the helmet’s black faceshield. SCHUYLER’s reflection can be seen in it as he steps toward the accident, then stops. PULL BACK to show SCHUYLER watching as the rider, unhurt, pushes himself upright. The figure brushes snow from himself, then remounts the motorcycle and kicks the engine to life.
+
+AUDIO: The engine rasps, then fades away.
+
+VIDEO: HOLD on LONG SHOT of street, SCHUYLER, back to camera, at the side of the frame. He goes on watching for a few moments after the motorcycle is gone, then turns—PULL BACK to place him at center of frame—and continues walking.
+
+“Why the hell did you put that in?” Schuyler gestured at the screen’s image of himself gazing at the spot in the snowbound street from where the motorcyclist had risen and departed.
+
+“Hey,” said Endryx behind him. “You’re the one who remembered it happening. I’ve got the transcript of you talking about it. So we went on up there and taped it. I think it makes a nice opening. Moody, sort of.”
+
+“Demented, more like it.” Weird enough—as he’d felt from the beginning with these tapes—to see himself shuffling down the white-against-black streets of Northernmost Parish, as if he’d never escaped after spending the first twenty years of his life there. As though some loop had collapsed, wiping out L.A. and the long trek there, depositing him back into the same footsteps trudging through the gray slush. The reconstruction of his former self was oppressively effective; he could feel the curve of the young Schuyler’s weary shoulders in his own. Back at the start of the bio project, Endryx had introduced him to the actor doing the part, an affable and colorless entity named Jerry Monmouth. The colorless quality being part of what made him Speed Death Productions’ leading physical chameleon: a body that could shape itself to the set, the stance of the bones and the motions of the flesh, of anyone else. The face—Schuyler’s face in this case, five years younger—was an ultra-high-resolution computer synth keyed in over Monmouth’s oddly immobile features.
+
+So now I can see myself, thought Schuyler as he watched the figure walking on. As others see me. Had they been looking.
+
+VIDEO: MEDIUM SHOT, SCHUYLER slumped in a chair, gazing at a monitor, a cluster of empty beer cans littering the warehouse floor beside him. On the screen, an image of himself in another time stands in a white street.
+
+AUDIO: “Demented, more like it.”
+
+VIDEO: SCHUYLER goes on gazing at the screen, the light from it sliding across his expressionless face.
+
+“It was an omen.” In the warehouse, emptied by time of the objects it held before, Schuyler watched another monitor. No shadow, but a simple tape playback unit sitting on the swept-bare floor. He leaned forward in the chair, careful to keep his weight off the leg that frostbite had left with a permanent stinging pain under the skin, and tapped the glass over the image of one Schuyler watching another. “That’s what I saw.”
+
+The other person, behind him the way Endryx had always kept herself, spoke in the warehouse’s hollow space. “What do you mean?”
+
+He had become so engrossed in the tape that he couldn’t remember who it was with him, and didn’t care. The opening into previous time, and time before that, was all
+
+that mattered. “The guy on the motorcycle,” he said quietly. “With that faceshield. It was like a lens; like black glass. That’s why I remembered it all that time. He could see me, but I couldn’t see him. Just my reflection.” Silent then, he watched the screen.
+
+VIDEO: LONG SHOT, SCHUYLER mounting the snow-covered steps of a building. CUT to MEDIUM SHOT, REVERSE ANGLE as he pushes through the glass doors. Before the doors swing shut, the words CATHEDRA NOVUM ADMINISTRATIVE OFFICES—NORTHERNMOST PARISH are visible.
+
+Made or broken here; he knew that. Schuyler watched Sub-Ascendant Lembert’s brown-mottled hands smooth the papers on the desk. A signature from the figure leaning forward from the creaking swivel chair meant the difference between a train bound for sunny L.A. and his ass staying frozen here at this cold butt-end of nowhere. Schuyler slowed one careful breath after another, waiting and noting the constellation on the balding head lowered before him, the dark splotches the same color under the gray strands as the liver-spotted hands.
+
+Lembert looked up at him without changing the angle of his neck. “Who do you think you’re fooling, Schuyler?” The hands pressed flat against the transfer application, as if the Sub-Ascendant was about to spring, yellow teeth bared, at Schuyler’s throat.
+
+“What—?” His breath caught, became a rock that he tried to swallow.
+
+“What are you trying to pull, Schuyler?” Crepe paper folded around Lembert’s eyes, until they became slits in wadded-up pink tissue.
+
+Snow and ice formed around the rock in his chest. “I’m not trying to pull anything, sir.”
+
+“Look at this crap.” The chair’s plastic foam mesh sighed as Lembert leaned back and turned to stare out the window; he ranked high enough only for a view of the stacked, cut-up stones of the cathedral, and not the excavation itself. He left one hand on Schuyler’s application, as if the offending words were etched so deep they could be read by touch. “‘So I can better serve the Church. ’ ‘Greater field for my efforts.’ ‘Devotion.’ ‘Faith.’ Crap.”
+
+“I don’t know what you mean.” Oh, yes you do—his own voice throttled behind his clamped teeth. Shut up, shut up, shut up.
+
+“I’ve heard this crap from so many other guys, that even if it were true, it would still make me sick. And it’s never true. Never.”
+
+Schuyler stayed quiet, hardening his face as though leaning into a frozen wind outside. He’d be thankful if he was still standing in the same place when it blew over.
+
+“The Cathedra Novum feeds you, clothes you, keeps your ass out of the snow, and this is what it gets. Lied to. By punks like you.”
+
+Jesus, what touched all this off? Schuyler forced his voice from the wedge at the back of his throat: “If there was any way I could—”
+
+“Could what?” Lembert swung his heavy, meat-pink face back around from the window. “Prove you’re not lying? But you can’t, can you? Because you’ve tainted your whole application, everything you say, by your actions. Didn’t you?”
+
+“I’m not sure what you mean.”
+
+One corner of Lembert’s mouth screwed into wrinkles as he pulled the top desk drawer open, denting his stomach. He dumped the contents of a large manila envelope out onto the desk. “What’s this, Schuyler.”
+
+“Oh.” Schuyler looked at the small objects and found himself no longer leaning against a cold wind, but falling into the chill vacuum at its core. His own words sounded stupid, in his ears, obvious statement of damning fact: “You went through my rooms.”
+
+Lembert grunted, all the confirmation needed. He held up the largest object between his thumb and forefinger, as though examining a bug. “So what is it, Schuyler.”
+
+He exhaled, without lessening the weight in his chest. “It’s a voke reader.”
+
+“And what does it do. Tell me.”
+
+It was obvious that Lembert already knew. Just part of the interrogation, the complete condemning of oneself. “It scans vocal patterns and timbres,” said Schuyler. Might as well get it over. “To see if somebody’s running a voice-alteration unit when they’re talking to you. So you know if they’re trying to hide something from you.”
+
+Wires dangled from Lembert’s hand to another small metal box, the same gray solder smeared along the seams. “Complete with sub-vocal modification. Very thorough.” The boxes clattered together as Lembert dropped them on the desk. “Where’d you get them, Schuyler?”
+
+Silence, and the weight of the other’s eyes. “I built them,” said Schuyler after a moment. “From a kit I sent for.”
+
+“Christ, Schuyler, don’t you think everything that comes up here on the train gets scanned? Especially packages for somebody who’s got a transfer application in.”
+
+This is what they ream you out for, thought Schuyler. He gazed up at the idiot pattern of holes in the acoustic ceiling. Not for doing anything wrong. Just for being stupid. “I didn’t think—”
+
+“‘Didn’t think’ isn’t the problem. You think too much, Schuyler; that’s your problem. Too fucking clever for your own good. What did you think you were doing with these?” Lembert scooped up the other objects, a half dozen tape cassettes, and let them fall clattering. “And you can turn off the tape recorder in your pocket now. Fun’s over.”
+
+“I guess so.” He pulled out the recorder, tapped it off, then stripped the pinhead mike from under his collar.
+
+Lembert shoved the scattered cassettes around with a thick finger. “Every talk we’ve had in this office, every interview on your application—you taped them all. Then trotted home and ran ’em through your little mail-order voke reader. And what did you find?”
+
+“Nothing.” A dim light started to seep around the edges, showing the breadth of the hard flat wall he had run into in the dark. “Nothing at all.”
+
+“‘Nothing at all.’ That’s right, Schuyler. You didn’t find a thing. Because we screwed you. You thought your little dime reader could tell you what we were really thinking about your transfer. And you thought everything was going just fine, you were just about on the next train south— because we were feeding you an overvoke all along.” Lembert reached again into his desk, this time pulling out a small control pad, the professional chrome gloss of its construction set off by the cobbled-together devices strewn on the desktop. Schuyler watched as Lembert prodded one of the switches under the miniature crossed t-squares logo of the Cathedra Novum Engineering Staff. As soon as Lembert spoke again, even without taping the words and running them through the voke reader, he could tell the difference.
+
+“Like that,” said Lembert in his subtly altered voice. “Nice and smooth, all the giveaways, the sub-voke tremors, all ironed out. All the little words under the words taken out—so you’d go on thinking your transfer application was just sailing through like we told you, and you wouldn’t be able to tell otherwise with your bitty gadgets. Didn’t you know we could do that, Schuyler?”
+
+He brought his gaze back down. “I didn’t think,” said Schuyler, “that this was that important. To bother feeding me disinfo like that.”
+
+“It’s not.” Lembert flicked the control pad off, his voice dropping back to its overtones and biting rasp. “Don’t kid yourself. Your soul is what’s important to the Cathedra Novum. Nothing else. Whether your ass freezes off in the snow up here is of no concern to the Church.”
+
+“So you went and searched my rooms.” He fastened on the one small grievance, grudgingly, the only one he had. “The rooms belong to the Church. So do you, Schuyler.”
+
+“Then that’s it. ” Schuyler gripped the chair arms, elbows angled out, ready to push himself upright, propel himself out of the room, the building, and back out in to snow-covered streets. “Looks like I’ll be here a while.” Probably forever, he thought. You. Stupid. Shit.
+
+“Wrong again.” Lembert folded his hands across his stomach and settled deeper into the chair, as if under the gravity of some denser ground. “Pack your stuff. You’re on the next train south.” He drew the transfer application across the desk, signed and shoved it back toward Schuyler. Another stack of papers spread out across the desk as he began sorting through them.
+
+“What?” Schuyler lifted the application. The signature was the real thing, and not some obscenity as a final joke.
+
+Lembert looked up from the papers. “You’re heading out of here. Just like you wanted, right?”
+
+Schuyler’s words tapped forward cautiously, feeling for the edge of a trap deeper than the one he’d already fallen into. “I’m not sure I understand.”
+
+“Like I said, your soul is all that matters to the Church. Moves in mysterious ways. If the Cathedra Novum thinks it would do your soul good for you to leave here, then it doesn’t matter what kind of jerk you are, you’re leaving. So go already.” His head, a heavy box of pink meat, tilted to reveal the balding crown again.
+
+VIDEO: MEDIUM SHOT, the front of the building. SCHUYLER stands at the top of the steps, the doors closing behind him. The transfer papers are in his hands. He closes his eyes, tilting his head back with an expression of joy as he carefully folds the papers and stows them inside his jacket. CUT to
+
+LONG SHOT paralleling a motionless train cutting a diagonal across the frame. SCHUYLER appears, laden with a green canvas duffel bag, walking through the snow at the side of the tracks.
+
+Underneath the train the snow had melted. As Schuyler passed by the engines, a warm mist smelling of oil and steel enveloped him. L.A. smells like that, he thought. If it smells like anything, it smells like that. He yanked the canvas strap of his bag to hitch it up higher on his shoulder and quickened his steps toward the cars farther back. If Lembert and the rest of the Cathedra Novum authorities decided that the joke had gone on far enough, there was no way, never had been, that they were going to let him out of this dump—he took one hand from the bag’s strap and tapped his jacket pocket, to make sure that the folded square of the transfer papers hadn’t leaked away, a mirage all along—they’d have to drag him off the train. If they can find me, thought Schuyler. First they’ll have to do that.
+
+He saw something move overhead, and stopped for a moment to watch it. A way of saying good-bye to another feature of the parish; with any luck he’d never see one of the weathermod satellites again. Through a break in the clouds, the distinctive sparkle of one of the ancient weapons systems was visible, locked above in synchronous orbit. Still up and operative, he thought, meddling with winds and cloud covers, maintaining its zone of arctic cold on the territory beneath, from here to the ice-locked harbor of abandoned San Francisco; right to the sharp edge above L.A., where the southern weathermods took over with their baking heat... this long after the designers responsible for the satellites, and the strategists who conceived warfare by weather control, were in their graves. A legacy from the long-ago war, like a lot of things in the world. That included the muddled history, years cloaked in darkness, that the Cathedra Novum bent its whole existence to penetrate. Their problem, not mine, thought Schuyler as he hoisted his bag higher on his shoulder and resumed walking. The only history I’m interested in is my own, starting now.
+
+The heat from the train’s engines faded yards before he reached the metal steps unfolded from one of the central cars, and he was soon ankle-deep in the congealing muck, as though one of the snowplowed streets of the town had unrolled itself here. The tromping of feet in and out of the train had stirred the mire at the bottom of the metal steps into even deeper mud; Schuyler felt it ooze over the top of his boots and trickle down inside in a slow freezing ribbon as he waded through it. After he slung his bag from around his shoulder and pitched it up into the open doorway, he leaned forward and grasped the steel handrail just inside. He felt his heel lift inside his boot, the cold muck sliding under his sock with a sucking noise. At the same time, a patch of cold more intense than the surrounding muck signalled the bite on his ankle. Another left-over from the war, out of some military genetic-engineering department. One this small was a nuisance; the Parish’s surrounding thermal mesh kept out the bigger, dangerous ones.
+
+“Christ.” The train’s doorway invited him in, a dark rectangle opening onto further possibilities. And now I’m stuck in the flipping mud. Figures. He grabbed the handrail on the other side and strained. The mud settled firmer, as the tiny wetblanket’s icy bite squirmed under his knee. Now what? he thought. They won’t leave without me. The tight grip of the chill soil around his ankle squeezed a small bolt of panic up his spine. If the train started to pull out, maybe he could just hold on... Maybe that’ll drag me out. He squeezed his eyes shut with the effort of gripping the handrails.
+
+“Gotcha.” Another grip caught him, hands wrapped under the bony knots of his elbows. “I’ll pull, you bend your knees.”
+
+VIDEO: MEDIUM SHOT, the frame filled by the shining metal side of the train car, the black opening of the doorway in the middle. Two hands reach out of the darkness, grasping Schuyler’s arms. He lurches up out of the mud. CUT to the close interior of the car. The bright glare of the snow barely enters the space; SCHUYLER sprawls forward on his hands and knees in the half light. The other figure, a dimly seen shape wrapped in a hooded robe of coarse fabric, rocks back into a sitting position by the doorway.
+
+AUDIO: The other’s voice: “You lost one of your boots.”
+
+VIDEO: CLOSE-UP from an angle parallel to the outside of the train. The figure leans out to retrieve SCHUYLER’S boot. The clumsy robes fall forward, and with a quick toss of the head, the figure shrugs them back. The figure is seen now, in profile, as a young woman. The hammered gold ornaments around her wrists and neck spatter the sunlight into the camera lens. Two thick braids of dark hair swing free as she bends forward, dangling just clear of the mud.
+
+“Where did you find her?” said Schuyler. Meaning, someone who looked so much like Cynth. Somehow he knew that the young woman’s face was not a synth, like his own keyed in over Jerry Monmouth’s living blank.
+
+“The bloodlines are all pretty close among the Godfriends.” Endryx’s voice held a workman-like pride. “She’s actually a sort of niece, the way they figure it, to Cynth. They don’t have any religious scruples about being in a tape like this. She turned out to be quite a natural actress. I was prepared originally to dub in her voice, but we didn’t have to.”
+
+Schuyler nodded, his attention drifting back into the screen. “Looks just like her,” he said softly.
+
+VIDEO: MEDIUM SHOT, the dark interior of the warehouse, the light from the monitor spilling across SCHUYLER. A young woman’s profile fills the screen in front of him.
+
+AUDIO: “Just like her.”
+
+“She was so pretty,” said Schuyler. Now even farther away in time than the image of himself watching the screen-within-a-screen; he still thought so.
+
+“Which one?” said the other behind him. “The real one?”
+
+He nodded. “They are all lovely. But I didn’t realize until now how beautiful the real one, the real Cynth, was.”
+
+VIDEO: MEDIUM SHOT, the train car’s cramped interior. The woman hands the muddy boot to Schuyler, now sitting across from her.
+
+“Thanks. ” For a moment, her open gaze caught him full-face as he took the boot from her. A thin row of ornamental scars, careful stitches in flesh, outlined the upper orbits of her eyes. He looked away as he set the boot down beside himself and started rolling up his pants leg.
+
+“Don’t pick at that. You’ll get it infected.” The woman leaned forward on her haunches and poked at the wet-blanket, a shiny transparent patch on Schuyler’s leg, starting to pinken with his blood. He saw now that the dark braids were oiled with something that glistened in the sunlight slanting through the train’s door; the end of one brushed a sable feather across his bare ankle as she inspected the inch-long parasite. “Hold on a second.” From a leather thong underneath the coarse robe she pulled out a small thermic. She pumped the handle until the blade glowed red, then slid the heated edge over Schuyler’s leg. The wetblanket clouded, blackened, then shriveled and fell off; a circle of red pinpricks sizzled under the thermic’s glow where the tiny soft mouths had worked through the skin.
+
+The blade started to darken, cooling, as she relaxed her grip on the handle. “There you go,” she said, tucking it back under her robe.
+
+“Thank you.” A formal phrase; he had never been this close or talked to one of the Godfriends before, had only seen the small delegations of the elder women in full military regalia striding through the Northernmost Parish gates on the way to a meeting at the Cathedra Novum headquarters. This one was much younger than any of those—probably a low-ranking warrior, thought Schuyler, stuck with some boring guard duty. Most excitement she’s seen today.
